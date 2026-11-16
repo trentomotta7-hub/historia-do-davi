@@ -1,0 +1,140 @@
+{
+  "episodio": "EP04",
+  "voz_total": 54.015,
+  "articulacao_carpor_segundo": 22.07,
+  "frases": [
+    {
+      "i": 1,
+      "estilo": "P",
+      "texto": "Davi ficou com o dedo sobre o botão.",
+      "t0": 0.25,
+      "t1": 2.22
+    },
+    {
+      "i": 2,
+      "estilo": "P",
+      "texto": "O número não era desconhecido.",
+      "t0": 3.12,
+      "t1": 4.619
+    },
+    {
+      "i": 3,
+      "estilo": "P",
+      "texto": "Ele atendeu no terceiro toque.",
+      "t0": 5.519,
+      "t1": 6.971
+    },
+    {
+      "i": 4,
+      "estilo": "P",
+      "texto": "Do outro lado, uma voz que ele conhecia.",
+      "t0": 7.889,
+      "t1": 9.705
+    },
+    {
+      "i": 5,
+      "estilo": "C",
+      "texto": "“Davi, meu filho. Aqui é o Sandro.”",
+      "t0": 10.639,
+      "t1": 11.371
+    },
+    {
+      "i": 6,
+      "estilo": "P",
+      "texto": "Sandro.",
+      "t0": 12.271,
+      "t1": 12.954
+    },
+    {
+      "i": 7,
+      "estilo": "P",
+      "texto": "O cara boa do bairro.",
+      "t0": 14.404,
+      "t1": 14.789
+    },
+    {
+      "i": 8,
+      "estilo": "P",
+      "texto": "Quem patrocinava o time e pagava o aluguel do campo.",
+      "t0": 16.239,
+      "t1": 17.711
+    },
+    {
+      "i": 9,
+      "estilo": "P",
+      "texto": "Quem levou a mãe dele ao hospital e não quis receber nada.",
+      "t0": 18.611,
+      "t1": 21.094
+    },
+    {
+      "i": 10,
+      "estilo": "C",
+      "texto": "“Aquele número é nosso, tranquilo. Não é nada errado. Só quero te mostrar uma coisa.”",
+      "t0": 21.994,
+      "t1": 24.603
+    },
+    {
+      "i": 11,
+      "estilo": "P",
+      "texto": "Davi perguntou o que era.",
+      "t0": 25.647,
+      "t1": 29.613
+    },
+    {
+      "i": 12,
+      "estilo": "P",
+      "texto": "Sandro riu baixo.",
+      "t0": 30.513,
+      "t1": 33.598
+    },
+    {
+      "i": 13,
+      "estilo": "C",
+      "texto": "“Coisa de gente em que a gente confia.”",
+      "t0": 35.048,
+      "t1": 35.947
+    },
+    {
+      "i": 14,
+      "estilo": "P",
+      "texto": "A ligação durou um minuto e quarenta.",
+      "t0": 36.887,
+      "t1": 38.602
+    },
+    {
+      "i": 15,
+      "estilo": "P",
+      "texto": "Foi o suficiente.",
+      "t0": 39.535,
+      "t1": 43.019
+    },
+    {
+      "i": 16,
+      "estilo": "P",
+      "texto": "E ninguém falou em dinheiro.",
+      "t0": 44.469,
+      "t1": 45.514
+    },
+    {
+      "i": 17,
+      "estilo": "P",
+      "texto": "Na cozinha, a mãe perguntou quem era.",
+      "t0": 46.414,
+      "t1": 47.974
+    },
+    {
+      "i": 18,
+      "estilo": "C",
+      "texto": "“Um amigo. Do time.”",
+      "t0": 48.874,
+      "t1": 50.646
+    },
+    {
+      "i": 19,
+      "estilo": "P",
+      "texto": "E foi a primeira vez que ele gostou de responder.",
+      "t0": 52.096,
+      "t1": 54.015
+    }
+  ]
+}

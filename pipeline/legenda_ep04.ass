@@ -1,0 +1,41 @@
+[Script Info]
+; EP04 - legenda gerada sobre a linha de tempo real do audio retemporizado
+Title: Davi EP04
+ScriptType: v4.00+
+WrapStyle: 0
+ScaledBorderAndShadow: yes
+PlayResX: 1080
+PlayResY: 1920
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Padrao,DejaVu Sans,66,&H00FFFFFF,&H000000FF,&H00000000,&H80000000,-1,0,0,0,100,100,0.4,0,1,3.8,0.8,2,60,60,340,1
+Style: Cita,DejaVu Sans,64,&H00FFFFFF,&H000000FF,&H00000000,&H80000000,0,0,0,0,100,100,0.2,0,1,3.2,0.6,2,60,60,340,1
+Style: Cartela,DejaVu Sans,80,&H00FFFFFF,&H000000FF,&H00000000,&H80000000,-1,0,0,0,100,100,3.0,0,1,4.5,0.8,5,60,60,300,1
+Style: Canais,DejaVu Sans,46,&H00FFFFFF,&H000000FF,&H00000000,&H80000000,0,0,0,0,100,100,0.6,0,1,2.6,0.5,2,60,60,150,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:00.25,0:00:02.22,Padrao,,0,0,0,,Davi ficou com o dedo\Nsobre o botão.
+Dialogue: 0,0:00:03.45,0:00:04.95,Padrao,,0,0,0,,O número não era\Ndesconhecido.
+Dialogue: 0,0:00:06.18,0:00:07.63,Padrao,,0,0,0,,Ele atendeu no terceiro\Ntoque.
+Dialogue: 0,0:00:08.92,0:00:10.74,Padrao,,0,0,0,,Do outro lado, uma voz que\Nele conhecia.
+Dialogue: 0,0:00:12.05,0:00:12.78,Cita,,0,0,0,,“Davi, meu filho. Aqui é o\NSandro.”
+Dialogue: 0,0:00:13.85,0:00:14.53,Padrao,,0,0,0,,Sandro.
+Dialogue: 0,0:00:15.81,0:00:16.36,Padrao,,0,0,0,,O cara boa do bairro.
+Dialogue: 0,0:00:17.30,0:00:18.77,Padrao,,0,0,0,,Quem patrocinava o time e\Npagava o aluguel do campo.
+Dialogue: 0,0:00:19.92,0:00:21.36,Padrao,,0,0,0,,Quem levou a mãe dele ao\Nhospital
+Dialogue: 0,0:00:21.36,0:00:22.40,Padrao,,0,0,0,,e não quis receber nada.
+Dialogue: 0,0:00:23.51,0:00:24.75,Cita,,0,0,0,,“Aquele número é nosso,\Ntranquilo. Não é
+Dialogue: 0,0:00:24.75,0:00:26.12,Cita,,0,0,0,,nada errado. Só quero te\Nmostrar uma coisa.”
+Dialogue: 0,0:00:27.54,0:00:31.53,Padrao,,0,0,0,,Davi perguntou o que era.
+Dialogue: 0,0:00:32.74,0:00:36.19,Padrao,,0,0,0,,Sandro riu baixo.
+Dialogue: 0,0:00:37.36,0:00:38.26,Cita,,0,0,0,,“Coisa de gente em que a\Ngente confia.”
+Dialogue: 0,0:00:39.57,0:00:41.29,Padrao,,0,0,0,,A ligação durou um minuto\Ne quarenta.
+Dialogue: 0,0:00:42.60,0:00:46.19,Padrao,,0,0,0,,Foi o suficiente.
+Dialogue: 0,0:00:47.31,0:00:48.36,Padrao,,0,0,0,,E ninguém falou em\Ndinheiro.
+Dialogue: 0,0:00:49.55,0:00:51.11,Padrao,,0,0,0,,Na cozinha, a mãe\Nperguntou quem era.
+Dialogue: 0,0:00:52.38,0:00:54.50,Cita,,0,0,0,,“Um amigo. Do time.”
+Dialogue: 0,0:00:55.73,0:00:57.65,Padrao,,0,0,0,,E foi a primeira vez que\Nele gostou de responder.
+Dialogue: 1,0:00:57.80,0:00:59.65,Cartela,,0,0,0,,{\an5}FASE 2 — VÍNCULO
+Dialogue: 1,0:00:59.85,0:01:01.85,Canais,,0,0,0,,{\an2}Disque Denúncia 181 · anônimo e gratuito\NComunica PF: gov.br/pf   |   CVV 188 · 24h

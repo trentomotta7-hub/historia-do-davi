@@ -1,0 +1,134 @@
+{
+  "episodio": "EP04",
+  "voz_total": 54.015,
+  "imagem_total": 58.615,
+  "dur_max": 15.0,
+  "chamadas_de_video": 6,
+  "blocos": [
+    {
+      "bloco": 1,
+      "inicio": 0.0,
+      "fim": 15.389,
+      "duracao": 15.389,
+      "frases": [
+        "Davi ficou com o dedo sobre o botão.",
+        "O número não era desconhecido.",
+        "Ele atendeu no terceiro toque.",
+        "Do outro lado, uma voz que ele conhecia.",
+        "“Davi, meu filho. Aqui é o Sandro.”",
+        "Sandro.",
+        "O cara boa do bairro."
+      ],
+      "locais": [
+        "loc_quarto_noite"
+      ],
+      "planos": [
+        "Close no celular na mão dele, tela acesa mostrando número de Navegantes; luz da tela pintando o queixo. Câmera parada, 35 mm.",
+        "Insert da tela; fora de foco, o porto ao fundo pela janela.",
+        "Polegar desliza; plano médio dele na cama, luz azul, abajur apagado.",
+        "Close no rosto, luz da tela; ele senta na beirada.",
+        "Insert da tela com a chamada em andamento; o nome \"Sandro\" digitado no contato."
+      ],
+      "inicio_pedido": 0.0,
+      "duracao_pedido": 15.0,
+      "aviso": "bloco acima de 15 s: dividir em dois clipes na frase indicada"
+    },
+    {
+      "bloco": 2,
+      "inicio": 15.989,
+      "fim": 18.311,
+      "duracao": 2.322,
+      "frases": [
+        "Quem patrocinava o time e pagava o aluguel do campo."
+      ],
+      "locais": [
+        "loc_campo_bairro"
+      ],
+      "planos": [
+        "Plano de Sandro acendendo o refletor do campo com a chave do carro no bolso."
+      ],
+      "inicio_pedido": 13.311,
+      "duracao_pedido": 5.0
+    },
+    {
+      "bloco": 3,
+      "inicio": 18.361,
+      "fim": 25.203,
+      "duracao": 6.842,
+      "frases": [
+        "Quem levou a mãe dele ao hospital e não quis receber nada.",
+        "“Aquele número é nosso, tranquilo. Não é nada errado. Só quero te mostrar uma coisa.”"
+      ],
+      "locais": [
+        "loc_casa_carro"
+      ],
+      "planos": [
+        "Flash-back: carro branco na frente de casa, mãe no banco da frente, Sandro na calçada recusando o dinheiro com a mão."
+      ],
+      "inicio_pedido": 18.361,
+      "duracao_pedido": 6.842
+    },
+    {
+      "bloco": 4,
+      "inicio": 25.397,
+      "fim": 39.202,
+      "duracao": 13.805,
+      "frases": [
+        "Davi perguntou o que era.",
+        "Sandro riu baixo.",
+        "“Coisa de gente em que a gente confia.”",
+        "A ligação durou um minuto e quarenta."
+      ],
+      "locais": [
+        "loc_quarto_noite"
+      ],
+      "planos": [
+        "Contraplano dele de perfil, janela atrás com as luzes do porto.",
+        "Close só na boca dele se abrindo em meio sorriso.",
+        "Davi olha a tela depois de desligar; o contato agora com nome salvo.",
+        "Insert do cronômetro da chamada; o quarto mudo atrás dele."
+      ],
+      "inicio_pedido": 25.397,
+      "duracao_pedido": 13.805
+    },
+    {
+      "bloco": 5,
+      "inicio": 39.285,
+      "fim": 43.619,
+      "duracao": 4.334,
+      "frases": [
+        "Foi o suficiente."
+      ],
+      "locais": [
+        "loc_quarto_noite"
+      ],
+      "planos": [
+        "Davi deita de novo, mãos atrás da cabeça, luz azul da janela no teto."
+      ],
+      "inicio_pedido": 38.619,
+      "duracao_pedido": 5.0
+    },
+    {
+      "bloco": 6,
+      "inicio": 44.219,
+      "fim": 54.615,
+      "duracao": 10.396,
+      "frases": [
+        "E ninguém falou em dinheiro.",
+        "Na cozinha, a mãe perguntou quem era.",
+        "“Um amigo. Do time.”",
+        "E foi a primeira vez que ele gostou de responder."
+      ],
+      "locais": [
+        "loc_cozinha_noite"
+      ],
+      "planos": [
+        "Plano americano na cozinha, luz do teto acesa, mãe lavando louça de costas.",
+        "Davi de frente, meio sorriso, o celular na mesa entre os dois.",
+        "Ele pega o celular. Corte seco para preto."
+      ],
+      "inicio_pedido": 44.219,
+      "duracao_pedido": 10.396
+    }
+  ]
+}

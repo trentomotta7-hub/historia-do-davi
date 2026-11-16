@@ -1,0 +1,189 @@
+{
+  "voz_total": 57.647,
+  "imagem_total": 61.847,
+  "pausa_extra": 0.3757,
+  "frases": [
+    {
+      "i": 0,
+      "estilo": "P",
+      "t0": 0.25,
+      "t1": 2.22,
+      "texto": "Davi ficou com o dedo sobre o botão."
+    },
+    {
+      "i": 1,
+      "estilo": "P",
+      "t0": 3.449,
+      "t1": 4.948,
+      "texto": "O número não era desconhecido."
+    },
+    {
+      "i": 2,
+      "estilo": "P",
+      "t0": 6.176,
+      "t1": 7.628,
+      "texto": "Ele atendeu no terceiro toque."
+    },
+    {
+      "i": 3,
+      "estilo": "P",
+      "t0": 8.922,
+      "t1": 10.738,
+      "texto": "Do outro lado, uma voz que ele conhecia."
+    },
+    {
+      "i": 4,
+      "estilo": "C",
+      "t0": 12.047,
+      "t1": 12.78,
+      "texto": "“Davi, meu filho. Aqui é o Sandro.”"
+    },
+    {
+      "i": 5,
+      "estilo": "P",
+      "t0": 13.849,
+      "t1": 14.532,
+      "texto": "Sandro."
+    },
+    {
+      "i": 6,
+      "estilo": "P",
+      "t0": 15.815,
+      "t1": 16.2,
+      "texto": "O cara boa do bairro."
+    },
+    {
+      "i": 7,
+      "estilo": "P",
+      "t0": 17.295,
+      "t1": 18.768,
+      "texto": "Quem patrocinava o time e pagava o aluguel do campo."
+    },
+    {
+      "i": 8,
+      "estilo": "P",
+      "t0": 19.92,
+      "t1": 22.403,
+      "texto": "Quem levou a mãe dele ao hospital e não quis receber nada."
+    },
+    {
+      "i": 9,
+      "estilo": "C",
+      "t0": 23.511,
+      "t1": 26.119,
+      "texto": "“Aquele número é nosso, tranquilo. Não é nada errado. Só quero te mostrar uma coisa.”"
+    },
+    {
+      "i": 10,
+      "estilo": "P",
+      "t0": 27.54,
+      "t1": 31.533,
+      "texto": "Davi perguntou o que era."
+    },
+    {
+      "i": 11,
+      "estilo": "P",
+      "t0": 32.737,
+      "t1": 36.188,
+      "texto": "Sandro riu baixo."
+    },
+    {
+      "i": 12,
+      "estilo": "C",
+      "t0": 37.36,
+      "t1": 38.258,
+      "texto": "“Coisa de gente em que a gente confia.”"
+    },
+    {
+      "i": 13,
+      "estilo": "P",
+      "t0": 39.575,
+      "t1": 41.29,
+      "texto": "A ligação durou um minuto e quarenta."
+    },
+    {
+      "i": 14,
+      "estilo": "P",
+      "t0": 42.598,
+      "t1": 46.193,
+      "texto": "Foi o suficiente."
+    },
+    {
+      "i": 15,
+      "estilo": "P",
+      "t0": 47.312,
+      "t1": 48.356,
+      "texto": "E ninguém falou em dinheiro."
+    },
+    {
+      "i": 16,
+      "estilo": "P",
+      "t0": 49.545,
+      "t1": 51.105,
+      "texto": "Na cozinha, a mãe perguntou quem era."
+    },
+    {
+      "i": 17,
+      "estilo": "C",
+      "t0": 52.382,
+      "t1": 54.498,
+      "texto": "“Um amigo. Do time.”"
+    },
+    {
+      "i": 18,
+      "estilo": "P",
+      "t0": 55.728,
+      "t1": 57.647,
+      "texto": "E foi a primeira vez que ele gostou de responder."
+    }
+  ],
+  "blocos": [
+    {
+      "bloco": 1,
+      "video_inicio": 0.0,
+      "video_fim": 15.0,
+      "frases": [
+        "Davi ficou com o dedo sobre o botão.",
+        "O número não era desconhecido.",
+        "Ele atendeu no terceiro toque.",
+        "Do outro lado, uma voz que ele conhecia.",
+        "“Davi, meu filho. Aqui é o Sandro.”",
+        "Sandro."
+      ]
+    },
+    {
+      "bloco": 2,
+      "video_inicio": 15.0,
+      "video_fim": 30.0,
+      "frases": [
+        "O cara boa do bairro.",
+        "Quem patrocinava o time e pagava o aluguel do campo.",
+        "Quem levou a mãe dele ao hospital e não quis receber nada.",
+        "“Aquele número é nosso, tranquilo. Não é nada errado. Só quero te mostrar uma coisa.”",
+        "Davi perguntou o que era."
+      ]
+    },
+    {
+      "bloco": 3,
+      "video_inicio": 30.0,
+      "video_fim": 45.0,
+      "frases": [
+        "Sandro riu baixo.",
+        "“Coisa de gente em que a gente confia.”",
+        "A ligação durou um minuto e quarenta.",
+        "Foi o suficiente."
+      ]
+    },
+    {
+      "bloco": 4,
+      "video_inicio": 45.0,
+      "video_fim": 61.85,
+      "frases": [
+        "E ninguém falou em dinheiro.",
+        "Na cozinha, a mãe perguntou quem era.",
+        "“Um amigo. Do time.”",
+        "E foi a primeira vez que ele gostou de responder."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,36 @@
+[Script Info]
+; Legenda da série "A história do Davi" — medidas replicadas dos episódios 1 a 3
+; Escala de referência: 1080x1920 (originais em 576x1024 => corpo 34px => 64-66px aqui)
+Title: Davi - legenda padrao
+ScriptType: v4.00+
+WrapStyle: 0
+ScaledBorderAndShadow: yes
+PlayResX: 1080
+PlayResY: 1920
+Video Aspect Ratio: 0
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+; NARRACAO: branco, bold, contorno preto, bloco baixo centralizado
+Style: Padrao,Noto Sans,66,&H00FFFFFF,&H000000FF,&H00000000,&H80000000,-1,0,0,0,100,100,0.6,0,1,3.6,0.6,2,60,60,340,1
+; MENSAGEM DO CELULAR / FALA CITADA: mesmo tamanho, peso regular
+Style: Cita,Noto Sans,64,&H00FFFFFF,&H000000FF,&H00000000,&H80000000,0,0,0,0,100,100,0.4,0,1,3.2,0.5,2,60,60,340,1
+; CARTELA DE FASE: centralizada no quadro, peso forte
+Style: Cartela,Noto Sans,78,&H00FFFFFF,&H000000FF,&H00000000,&H80000000,-1,0,0,0,100,100,2.5,0,1,4.5,0.8,5,60,60,300,1
+; CARTELA DE CANAIS: parte inferior, menor
+Style: Canais,Noto Sans,50,&H00FFFFFF,&H000000FF,&H00000000,&H80000000,0,0,0,0,100,100,0.8,0,1,2.8,0.5,2,60,60,170,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+; ---------------------------------------------------------------------------
+; Gerar estas linhas automaticos a partir da transcricao do audio REAL da
+; narracao (manus-speech-to-text no WAV gerado), nunca a partir do roteiro.
+; Regra de ouro: legenda so existe enquanto existe fala.
+;
+; Exemplos do E4 no padrao de estilo:
+; Dialogue: 0,0:00:00.00,0:00:03.20,Padrao,,0,0,0,,{\an2}Davi ficou com o dedo\Nsobre o bot\Nao.
+; Dialogue: 0,0:00:13.60,0:00:17.40,Cita,,0,0,0,,{\an2}"Davi, meu filho.\NAqui e o Sandro."
+;
+; Cartelas de fechamento (sempre as duas ultimas):
+; Dialogue: 0,0:01:04.50,0:01:06.50,Cartela,,0,0,0,,{\an5}FASE 2 - VINCULO
+; Dialogue: 0,0:01:06.50,0:01:08.50,Canais,,0,0,0,,{\an2}Disque Denuncia 181 - anonimo e gratuito\NComunica PF: gov.br/pf   |   CVV 188 - 24h

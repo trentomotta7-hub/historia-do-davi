@@ -1,0 +1,13 @@
+*.tmp
+seg/
+lista_concat.txt
+norm.log
+trace.log
+img*.mp4
+mix*.wav
+bruto*
+lista.txt
+chk/
+qa/f_*
+node_modules/
+__pycache__/

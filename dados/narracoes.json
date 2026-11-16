@@ -1,0 +1,1578 @@
+{
+  "EP04": {
+    "episodio": 4,
+    "titulo": "\"Quem liga\"",
+    "fase": "2 — Vínculo",
+    "caracteres": 681,
+    "frases": [
+      {
+        "i": 1,
+        "estilo": "P",
+        "texto": "Davi ficou com o dedo sobre o botão.",
+        "imagem": "Close no celular na mão dele, tela acesa mostrando número de Navegantes; luz da tela pintando o queixo. Câmera parada, 35 mm.",
+        "local": "loc_quarto_noite",
+        "linha_shotlist": true
+      },
+      {
+        "i": 2,
+        "estilo": "P",
+        "texto": "O número não era desconhecido.",
+        "imagem": "Insert da tela; fora de foco, o porto ao fundo pela janela.",
+        "local": "loc_quarto_noite",
+        "linha_shotlist": true
+      },
+      {
+        "i": 3,
+        "estilo": "P",
+        "texto": "Ele atendeu no terceiro toque.",
+        "imagem": "Polegar desliza; plano médio dele na cama, luz azul, abajur apagado.",
+        "local": "loc_quarto_noite",
+        "linha_shotlist": true
+      },
+      {
+        "i": 4,
+        "estilo": "P",
+        "texto": "Do outro lado, uma voz que ele conhecia.",
+        "imagem": "Close no rosto, luz da tela; ele senta na beirada.",
+        "local": "loc_quarto_noite",
+        "linha_shotlist": true
+      },
+      {
+        "i": 5,
+        "estilo": "C",
+        "texto": "“Davi, meu filho. Aqui é o Sandro.”",
+        "imagem": "Insert da tela com a chamada em andamento; o nome \"Sandro\" digitado no contato.",
+        "local": "loc_quarto_noite",
+        "linha_shotlist": true
+      },
+      {
+        "i": 6,
+        "estilo": "P",
+        "texto": "Sandro.",
+        "imagem": "",
+        "local": "loc_quarto_noite",
+        "linha_shotlist": false
+      },
+      {
+        "i": 7,
+        "estilo": "P",
+        "texto": "O cara boa do bairro.",
+        "imagem": "",
+        "local": "loc_quarto_noite",
+        "linha_shotlist": false
+      },
+      {
+        "i": 8,
+        "estilo": "P",
+        "texto": "Quem patrocinava o time e pagava o aluguel do campo.",
+        "imagem": "Plano de Sandro acendendo o refletor do campo com a chave do carro no bolso.",
+        "local": "loc_campo_bairro",
+        "linha_shotlist": true
+      },
+      {
+        "i": 9,
+        "estilo": "P",
+        "texto": "Quem levou a mãe dele ao hospital e não quis receber nada.",
+        "imagem": "Flash-back: carro branco na frente de casa, mãe no banco da frente, Sandro na calçada recusando o dinheiro com a mão.",
+        "local": "loc_casa_carro",
+        "linha_shotlist": true
+      },
+      {
+        "i": 10,
+        "estilo": "C",
+        "texto": "“Aquele número é nosso, tranquilo. Não é nada errado. Só quero te mostrar uma coisa.”",
+        "imagem": "",
+        "local": "loc_casa_carro",
+        "linha_shotlist": false
+      },
+      {
+        "i": 11,
+        "estilo": "P",
+        "texto": "Davi perguntou o que era.",
+        "imagem": "Contraplano dele de perfil, janela atrás com as luzes do porto.",
+        "local": "loc_quarto_noite",
+        "linha_shotlist": true
+      },
+      {
+        "i": 12,
+        "estilo": "P",
+        "texto": "Sandro riu baixo.",
+        "imagem": "Close só na boca dele se abrindo em meio sorriso.",
+        "local": "loc_quarto_noite",
+        "linha_shotlist": true
+      },
+      {
+        "i": 13,
+        "estilo": "C",
+        "texto": "“Coisa de gente em que a gente confia.”",
+        "imagem": "Davi olha a tela depois de desligar; o contato agora com nome salvo.",
+        "local": "loc_quarto_noite",
+        "linha_shotlist": true
+      },
+      {
+        "i": 14,
+        "estilo": "P",
+        "texto": "A ligação durou um minuto e quarenta.",
+        "imagem": "Insert do cronômetro da chamada; o quarto mudo atrás dele.",
+        "local": "loc_quarto_noite",
+        "linha_shotlist": true
+      },
+      {
+        "i": 15,
+        "estilo": "P",
+        "texto": "Foi o suficiente.",
+        "imagem": "Davi deita de novo, mãos atrás da cabeça, luz azul da janela no teto.",
+        "local": "loc_quarto_noite",
+        "linha_shotlist": true
+      },
+      {
+        "i": 16,
+        "estilo": "P",
+        "texto": "E ninguém falou em dinheiro.",
+        "imagem": "Plano americano na cozinha, luz do teto acesa, mãe lavando louça de costas.",
+        "local": "loc_cozinha_noite",
+        "linha_shotlist": true
+      },
+      {
+        "i": 17,
+        "estilo": "P",
+        "texto": "Na cozinha, a mãe perguntou quem era.",
+        "imagem": "",
+        "local": "loc_cozinha_noite",
+        "linha_shotlist": false
+      },
+      {
+        "i": 18,
+        "estilo": "C",
+        "texto": "“Um amigo. Do time.”",
+        "imagem": "Davi de frente, meio sorriso, o celular na mesa entre os dois.",
+        "local": "loc_cozinha_noite",
+        "linha_shotlist": true
+      },
+      {
+        "i": 19,
+        "estilo": "P",
+        "texto": "E foi a primeira vez que ele gostou de responder.",
+        "imagem": "Ele pega o celular. Corte seco para preto.",
+        "local": "loc_cozinha_noite",
+        "linha_shotlist": true
+      }
+    ]
+  },
+  "EP05": {
+    "episodio": 5,
+    "titulo": "\"Sem compromisso\"",
+    "fase": "3 — Vantagem",
+    "caracteres": 710,
+    "frases": [
+      {
+        "i": 1,
+        "estilo": "P",
+        "texto": "Sábado.",
+        "imagem": "",
+        "local": "loc_quarto_noite",
+        "linha_shotlist": false
+      },
+      {
+        "i": 2,
+        "estilo": "P",
+        "texto": "Nove da manhã.",
+        "imagem": "",
+        "local": "loc_quarto_noite",
+        "linha_shotlist": false
+      },
+      {
+        "i": 3,
+        "estilo": "P",
+        "texto": "Davi acordou antes do alarme.",
+        "imagem": "Insert do celular na mesa de cabeceira marcando 5h40, quarto ainda escuro.",
+        "local": "loc_quarto_noite",
+        "linha_shotlist": true
+      },
+      {
+        "i": 4,
+        "estilo": "P",
+        "texto": "Sandro desceu do carro com café para dois.",
+        "imagem": "Carro branco, motorista de camisa social, sorriso largo; plano médio de Davi recebendo o copo.",
+        "local": "loc_casa_carro",
+        "linha_shotlist": true
+      },
+      {
+        "i": 5,
+        "estilo": "C",
+        "texto": "“Traz só o boné. É uma volta.”",
+        "imagem": "Sandro apontando o terminal com o copo na mão.",
+        "local": "loc_terminal_patio",
+        "linha_shotlist": true
+      },
+      {
+        "i": 6,
+        "estilo": "P",
+        "texto": "A portaria era uma parede de vidro e papel.",
+        "imagem": "Travelling lateral lento: catracas, painel de crachás, mural de normas de segurança, câmeras.",
+        "local": "loc_portaria",
+        "linha_shotlist": true
+      },
+      {
+        "i": 7,
+        "estilo": "P",
+        "texto": "Sandro falou com todo mundo pelo nome.",
+        "imagem": "Planos curtos encadeados: guarda, conferente, motorista. Cada um responde com o nome de Sandro.",
+        "local": "loc_portaria",
+        "linha_shotlist": true
+      },
+      {
+        "i": 8,
+        "estilo": "P",
+        "texto": "Guarda, conferente, motorista.",
+        "imagem": "",
+        "local": "loc_portaria",
+        "linha_shotlist": false
+      },
+      {
+        "i": 9,
+        "estilo": "P",
+        "texto": "Davi entendeu que aquilo era poder de verdade.",
+        "imagem": "Davi parado no meio do fluxo de pessoas que andam rápido; ele é o único parado.",
+        "local": "loc_portaria",
+        "linha_shotlist": true
+      },
+      {
+        "i": 10,
+        "estilo": "C",
+        "texto": "“Chega carga que precisa de conferência rápida. Você abre, confere o lacre e me manda o número. Duzentos reais por visita.”",
+        "imagem": "Interior do pátio: contêineres empilhados, empilhadeira passando ao fundo desfocada.",
+        "local": "loc_terminal_patio",
+        "linha_shotlist": true
+      },
+      {
+        "i": 11,
+        "estilo": "P",
+        "texto": "Davi perguntou o que tinha dentro.",
+        "imagem": "Ele vira para Sandro. Plano dos dois, enquadramento fechado.",
+        "local": "loc_terminal_patio",
+        "linha_shotlist": true
+      },
+      {
+        "i": 12,
+        "estilo": "C",
+        "texto": "“Se eu soubesse, não te trazia aqui.”",
+        "imagem": "Sandro rindo. Davi rindo. Os dois no sol.",
+        "local": "loc_terminal_patio",
+        "linha_shotlist": true
+      },
+      {
+        "i": 13,
+        "estilo": "P",
+        "texto": "Foi a primeira resposta que não respondeu nada.",
+        "imagem": "Insert: a lateral de um contêiner com número borrado de propósito.",
+        "local": "loc_terminal_patio",
+        "linha_shotlist": true
+      },
+      {
+        "i": 14,
+        "estilo": "P",
+        "texto": "Na saída, ele parou.",
+        "imagem": "Davi parado na sombra da portaria, cancela abrindo.",
+        "local": "loc_portaria",
+        "linha_shotlist": true
+      },
+      {
+        "i": 15,
+        "estilo": "C",
+        "texto": "“Hoje não dá, Sandro.”",
+        "imagem": "Ele fala sem encarar. Sandro de mãos no bolso.",
+        "local": "loc_portaria",
+        "linha_shotlist": true
+      },
+      {
+        "i": 16,
+        "estilo": "P",
+        "texto": "Sandro deu de ombros e sorriu.",
+        "imagem": "Close no rosto de Sandro: nenhuma irritação, só afeto.",
+        "local": "loc_quarto_noite",
+        "linha_shotlist": true
+      },
+      {
+        "i": 17,
+        "estilo": "C",
+        "texto": "“Tranquilo, meu filho. A porta tá aberta.”",
+        "imagem": "Sandro acenando ao entrar no carro. Davi sozinho na calçada.",
+        "local": "loc_casa_carro",
+        "linha_shotlist": true
+      },
+      {
+        "i": 18,
+        "estilo": "P",
+        "texto": "Ninguém cobrando nada.",
+        "imagem": "Volta à loja: Davi dobrando camisa na arara, luz quente, sorriso pequeno e triste.",
+        "local": "loc_loja",
+        "linha_shotlist": true
+      },
+      {
+        "i": 19,
+        "estilo": "P",
+        "texto": "E foi por isso que ele não esqueceu.",
+        "imagem": "Sobreposição suave: a tela do celular no vidro da vitrine. Drone grave entra.",
+        "local": "loc_loja",
+        "linha_shotlist": true
+      }
+    ]
+  },
+  "EP06": {
+    "episodio": 6,
+    "titulo": "\"A segunda chamada\"",
+    "fase": "3 — Vantagem (virada)",
+    "caracteres": 708,
+    "frases": [
+      {
+        "i": 1,
+        "estilo": "P",
+        "texto": "Na segunda, a loja avisou que ia reduzir.",
+        "imagem": "Cartaz na porta dos fundos, caneta marcando três nomes; mão de Davi no vidro.",
+        "local": "loc_quarto_noite",
+        "linha_shotlist": true
+      },
+      {
+        "i": 2,
+        "estilo": "P",
+        "texto": "Cinco das dezessete vagas.",
+        "imagem": "Plano dele no caixa, cliente passando cartão; a fila anda.",
+        "local": "loc_quarto_noite",
+        "linha_shotlist": true
+      },
+      {
+        "i": 3,
+        "estilo": "P",
+        "texto": "Na terça, a consulta da mãe atrasou de novo.",
+        "imagem": "Envelope do posto de saúde sobre a mesa da cozinha; a mão dela abre.",
+        "local": "loc_cozinha_noite",
+        "linha_shotlist": true
+      },
+      {
+        "i": 4,
+        "estilo": "P",
+        "texto": "Três meses de fila para uma cirurgia de hérnia.",
+        "imagem": "Close do papel com a data carimbada; desfoca.",
+        "local": "loc_cozinha_noite",
+        "linha_shotlist": true
+      },
+      {
+        "i": 5,
+        "estilo": "P",
+        "texto": "Particular, o valor que ele não tinha.",
+        "imagem": "Davi de costas olhando a tela do celular com a calculadora aberta.",
+        "local": "loc_quarto_noite",
+        "linha_shotlist": true
+      },
+      {
+        "i": 6,
+        "estilo": "P",
+        "texto": "Ele fez a conta duas vezes.",
+        "imagem": "Insert da tela: dois cálculos, o mesmo resultado.",
+        "local": "loc_quarto_noite",
+        "linha_shotlist": true
+      },
+      {
+        "i": 7,
+        "estilo": "P",
+        "texto": "Na quarta, lavou a camisa do sábado.",
+        "imagem": "Tanque da cozinha, sabão, água escorrendo; Davi esfregando a gola.",
+        "local": "loc_cozinha_noite",
+        "linha_shotlist": true
+      },
+      {
+        "i": 8,
+        "estilo": "P",
+        "texto": "Ninguém entendeu por quê.",
+        "imagem": "Mãe na porta, pano no ombro, olhando sem perguntar.",
+        "local": "loc_cozinha_noite",
+        "linha_shotlist": true
+      },
+      {
+        "i": 9,
+        "estilo": "P",
+        "texto": "Ele decorou o número antes de salvar.",
+        "imagem": "Quarto escuro; ele com o telefone no joelho, digitando e apagando.",
+        "local": "loc_quarto_noite",
+        "linha_shotlist": true
+      },
+      {
+        "i": 10,
+        "estilo": "P",
+        "texto": "Nunca tinha feito isso na vida.",
+        "imagem": "Insert da tela com o número marcado, a agenda fechada.",
+        "local": "loc_quarto_noite",
+        "linha_shotlist": true
+      },
+      {
+        "i": 11,
+        "estilo": "P",
+        "texto": "Às nove e dez, Davi discou.",
+        "imagem": "O polegar desliza; o rosto dele iluminado de baixo.",
+        "local": "loc_quarto_noite",
+        "linha_shotlist": true
+      },
+      {
+        "i": 12,
+        "estilo": "P",
+        "texto": "Do outro lado, atenderam no segundo toque.",
+        "imagem": "Close do rosto; a luz da tela acende o quarto.",
+        "local": "loc_quarto_noite",
+        "linha_shotlist": true
+      },
+      {
+        "i": 13,
+        "estilo": "C",
+        "texto": "“Pensei que você ia ligar mais cedo.”",
+        "imagem": "Plano médio: ele sentado no chão do quarto, costas na cama, celular no ouvido.",
+        "local": "loc_quarto_noite",
+        "linha_shotlist": true
+      },
+      {
+        "i": 14,
+        "estilo": "P",
+        "texto": "Não tinha vitória nenhuma naquela voz.",
+        "imagem": "Insert do queixo dele apertado, olhos no teto.",
+        "local": "loc_quarto_noite",
+        "linha_shotlist": true
+      },
+      {
+        "i": 15,
+        "estilo": "P",
+        "texto": "Só a calma de quem estava certo.",
+        "imagem": "A janela com as luzes do porto; agora o porto está mais perto que nunca.",
+        "local": "loc_quarto_noite",
+        "linha_shotlist": true
+      },
+      {
+        "i": 16,
+        "estilo": "C",
+        "texto": "“Sábado. Leva só o documento.”",
+        "imagem": "Tela do celular, a mensagem escrita em uma linha.",
+        "local": "loc_quarto_noite",
+        "linha_shotlist": true
+      },
+      {
+        "i": 17,
+        "estilo": "P",
+        "texto": "Davi desligou e ficou no chão.",
+        "imagem": "Ele escorrega até sentar no chão; a tela apaga; só resta a luz azul da janela.",
+        "local": "loc_quarto_noite",
+        "linha_shotlist": true
+      },
+      {
+        "i": 18,
+        "estilo": "P",
+        "texto": "A mãe chamou para jantar.",
+        "imagem": "Corredor visto do chão: a luz da cozinha entrando em faixa sob a porta.",
+        "local": "loc_cozinha_noite",
+        "linha_shotlist": true
+      },
+      {
+        "i": 19,
+        "estilo": "P",
+        "texto": "Ele respondeu que já ia.",
+        "imagem": "Ele fica parado. Não se levanta ainda.",
+        "local": "loc_cozinha_noite",
+        "linha_shotlist": true
+      },
+      {
+        "i": 20,
+        "estilo": "P",
+        "texto": "E ali ele quis o dinheiro.",
+        "imagem": "Close final: os olhos dele abertos no escuro, o porto refletido neles.",
+        "local": "loc_quarto_noite",
+        "linha_shotlist": true
+      },
+      {
+        "i": 21,
+        "estilo": "P",
+        "texto": "Ninguém obrigou.",
+        "imagem": "",
+        "local": "loc_quarto_noite",
+        "linha_shotlist": false
+      },
+      {
+        "i": 22,
+        "estilo": "P",
+        "texto": "Foi ele.",
+        "imagem": "",
+        "local": "loc_quarto_noite",
+        "linha_shotlist": false
+      }
+    ]
+  },
+  "EP07": {
+    "episodio": 7,
+    "titulo": "\"O lacre\"",
+    "fase": "4 — Dependência",
+    "caracteres": 668,
+    "frases": [
+      {
+        "i": 1,
+        "estilo": "P",
+        "texto": "Sábado.",
+        "imagem": "",
+        "local": "loc_quarto_noite",
+        "linha_shotlist": false
+      },
+      {
+        "i": 2,
+        "estilo": "P",
+        "texto": "Cinco e quarenta da manhã.",
+        "imagem": "",
+        "local": "loc_quarto_noite",
+        "linha_shotlist": false
+      },
+      {
+        "i": 3,
+        "estilo": "P",
+        "texto": "O porto acordava antes da cidade.",
+        "imagem": "Plano geral: guindastes, contêineres empilhados, luzes de sódio acesas com o céu escuro.",
+        "local": "loc_terminal_patio",
+        "linha_shotlist": true
+      },
+      {
+        "i": 4,
+        "estilo": "P",
+        "texto": "Cleber estava na portaria.",
+        "imagem": "Homem de colete laranja na catraca, olhando o próprio crachá; não olha para Davi.",
+        "local": "loc_portaria",
+        "linha_shotlist": true
+      },
+      {
+        "i": 5,
+        "estilo": "C",
+        "texto": "“Você é meu primo. Fica perto de mim e não fala.”",
+        "imagem": "Plano dos dois caminhando; Cleber com as mãos no bolso, ombros duros.",
+        "local": "loc_portaria",
+        "linha_shotlist": true
+      },
+      {
+        "i": 6,
+        "estilo": "P",
+        "texto": "O pátio tinha barulho de ferro e cheiro de madeira.",
+        "imagem": "Travelling de um palete de madeira embalado, plástico transparente.",
+        "local": "loc_portaria",
+        "linha_shotlist": true
+      },
+      {
+        "i": 7,
+        "estilo": "P",
+        "texto": "Sandro apontou um número pintado.",
+        "imagem": "Mão de Sandro em primeiro plano; fora de foco, a lateral de um contêiner com número ilegível.",
+        "local": "loc_terminal_patio",
+        "linha_shotlist": true
+      },
+      {
+        "i": 8,
+        "estilo": "C",
+        "texto": "“Confere o lacre e me manda o número do novo.”",
+        "imagem": "Insert: a corrente e o lacre de plástico pendurados na porta.",
+        "local": "loc_terminal_patio",
+        "linha_shotlist": true
+      },
+      {
+        "i": 9,
+        "estilo": "P",
+        "texto": "O lacre velho estava partido.",
+        "imagem": "Mãos de Davi abrindo a porta com cuidado; a fresta deixa sair luz.",
+        "local": "loc_terminal_patio",
+        "linha_shotlist": true
+      },
+      {
+        "i": 10,
+        "estilo": "P",
+        "texto": "Ele trocou sem entender por que era tão fácil.",
+        "imagem": "Ele fecha, encaixa o novo, dá um puxão para testar.",
+        "local": "loc_terminal_patio",
+        "linha_shotlist": true
+      },
+      {
+        "i": 11,
+        "estilo": "P",
+        "texto": "Uma mochila passou de mão em mão perto da porta.",
+        "imagem": "Ao fundo, desfocada e cortada pela borda do quadro: três figuras, um volume. Davi não vira.",
+        "local": "loc_terminal_patio",
+        "linha_shotlist": true
+      },
+      {
+        "i": 12,
+        "estilo": "P",
+        "texto": "Davi não viu o que tinha dentro.",
+        "imagem": "Close só do rosto dele, olhos no chão, maxilar tenso.",
+        "local": "loc_quarto_noite",
+        "linha_shotlist": true
+      },
+      {
+        "i": 13,
+        "estilo": "P",
+        "texto": "Foi a parte combinada.",
+        "imagem": "Sandro assina um papel na cabine de um caminhão.",
+        "local": "loc_quarto_noite",
+        "linha_shotlist": true
+      },
+      {
+        "i": 14,
+        "estilo": "P",
+        "texto": "No portão, um envelope pardo, fino.",
+        "imagem": "Mão entrega o envelope; Davi recebe com as duas mãos, sem jeito.",
+        "local": "loc_quarto_noite",
+        "linha_shotlist": true
+      },
+      {
+        "i": 15,
+        "estilo": "C",
+        "texto": "“Dois mil. Só hoje.”",
+        "imagem": "Estacionamento deserto; ele abre, conta as notas com o polegar.",
+        "local": "loc_quarto_noite",
+        "linha_shotlist": true
+      },
+      {
+        "i": 16,
+        "estilo": "P",
+        "texto": "Duas consultas.",
+        "imagem": "",
+        "local": "loc_quarto_noite",
+        "linha_shotlist": false
+      },
+      {
+        "i": 17,
+        "estilo": "P",
+        "texto": "Três meses de aluguel.",
+        "imagem": "",
+        "local": "loc_quarto_noite",
+        "linha_shotlist": false
+      },
+      {
+        "i": 18,
+        "estilo": "P",
+        "texto": "Uma vez só, ele pensou.",
+        "imagem": "Davi na moto, capacete na mão, parado.",
+        "local": "loc_quarto_noite",
+        "linha_shotlist": true
+      },
+      {
+        "i": 19,
+        "estilo": "P",
+        "texto": "Na saída, o motorista perguntou o nome dele.",
+        "imagem": "Janela do caminhão abaixa; mão para fora; Davi responde.",
+        "local": "loc_quarto_noite",
+        "linha_shotlist": true
+      },
+      {
+        "i": 20,
+        "estilo": "C",
+        "texto": "“É você? Falam tanto de você aqui dentro.”",
+        "imagem": "Close no rosto de Davi: ele sorri sem querer. É o que dói.",
+        "local": "loc_quarto_noite",
+        "linha_shotlist": true
+      }
+    ]
+  },
+  "EP08": {
+    "episodio": 8,
+    "titulo": "\"Dinheiro bom\"",
+    "fase": "4 — Dependência",
+    "caracteres": 673,
+    "frases": [
+      {
+        "i": 1,
+        "estilo": "P",
+        "texto": "Davi não gastou nada naquele dia.",
+        "imagem": "O envelope dentro da gaveta da mesa, em cima da caderneta de luz.",
+        "local": "loc_cozinha_noite",
+        "linha_shotlist": true
+      },
+      {
+        "i": 2,
+        "estilo": "P",
+        "texto": "Deixou lá dois dias, olhando.",
+        "imagem": "Ele na cadeira diante da mesa, sem tocar em nada; luz de manhã entrando.",
+        "local": "loc_cozinha_noite",
+        "linha_shotlist": true
+      },
+      {
+        "i": 3,
+        "estilo": "P",
+        "texto": "Na quinta, pagou a consulta em particular.",
+        "imagem": "Balcão de clínica, cartão recusado, dinheiro contado sobre o balcão.",
+        "local": "loc_cozinha_noite",
+        "linha_shotlist": true
+      },
+      {
+        "i": 4,
+        "estilo": "P",
+        "texto": "Na sexta, a cirurgia saiu em três semanas.",
+        "imagem": "Papel com data; a mão da mãe segurando o papel com as duas mãos.",
+        "local": "loc_cozinha_noite",
+        "linha_shotlist": true
+      },
+      {
+        "i": 5,
+        "estilo": "P",
+        "texto": "No corredor do posto, ela chorou.",
+        "imagem": "Plano de costas: mãe sentada no banco de plástico, ombros; Davi de pé ao lado, mãos nos bolsos.",
+        "local": "loc_banco",
+        "linha_shotlist": true
+      },
+      {
+        "i": 6,
+        "estilo": "P",
+        "texto": "Não era da doença.",
+        "imagem": "",
+        "local": "loc_banco",
+        "linha_shotlist": false
+      },
+      {
+        "i": 7,
+        "estilo": "P",
+        "texto": "Era do alívio.",
+        "imagem": "",
+        "local": "loc_banco",
+        "linha_shotlist": false
+      },
+      {
+        "i": 8,
+        "estilo": "P",
+        "texto": "Em casa, a pergunta de sempre.",
+        "imagem": "Cozinha à noite, luz quente, a mesa posta. Ela senta, ele também.",
+        "local": "loc_cozinha_noite",
+        "linha_shotlist": true
+      },
+      {
+        "i": 9,
+        "estilo": "C",
+        "texto": "“De onde veio esse dinheiro?”",
+        "imagem": "Ela pergunta sem acusação; as duas mãos na caneca.",
+        "local": "loc_cozinha_noite",
+        "linha_shotlist": true
+      },
+      {
+        "i": 10,
+        "estilo": "C",
+        "texto": "“Fechamento de meta. Ainda não caiu na conta.”",
+        "imagem": "Davi responde olhando nos olhos dela. Ele treinou.",
+        "local": "loc_cozinha_noite",
+        "linha_shotlist": true
+      },
+      {
+        "i": 11,
+        "estilo": "P",
+        "texto": "Dessa vez, ele mentiu bem.",
+        "imagem": "Ela assente e volta a comer; ele também volta a comer.",
+        "local": "loc_cozinha_noite",
+        "linha_shotlist": true
+      },
+      {
+        "i": 12,
+        "estilo": "P",
+        "texto": "E ela acreditou porque queria acreditar.",
+        "imagem": "Insert do prato dos dois, o mesmo gesto de garfo.",
+        "local": "loc_cozinha_noite",
+        "linha_shotlist": true
+      },
+      {
+        "i": 13,
+        "estilo": "P",
+        "texto": "Mentir bem também é um trabalho.",
+        "imagem": "Davi na pia, lavando o prato, sozinho, a luz da cozinha agora fria.",
+        "local": "loc_cozinha_noite",
+        "linha_shotlist": true
+      },
+      {
+        "i": 14,
+        "estilo": "P",
+        "texto": "No sábado, a mensagem acordou às seis.",
+        "imagem": "Tela no criado: \"Sexta. Mesma hora.\" Luz do quarto ainda azul.",
+        "local": "loc_quarto_noite",
+        "linha_shotlist": true
+      },
+      {
+        "i": 15,
+        "estilo": "C",
+        "texto": "“Sexta. Mesma hora.”",
+        "imagem": "",
+        "local": "loc_quarto_noite",
+        "linha_shotlist": false
+      },
+      {
+        "i": 16,
+        "estilo": "P",
+        "texto": "Davi olhou sem responder.",
+        "imagem": "Ele senta na cama, telefone na mão, o polegar parado.",
+        "local": "loc_quarto_noite",
+        "linha_shotlist": true
+      },
+      {
+        "i": 17,
+        "estilo": "P",
+        "texto": "E respondeu.",
+        "imagem": "Insert da digitação: duas letras.",
+        "local": "loc_quarto_noite",
+        "linha_shotlist": true
+      },
+      {
+        "i": 18,
+        "estilo": "C",
+        "texto": "“Tá bom.”",
+        "imagem": "",
+        "local": "loc_quarto_noite",
+        "linha_shotlist": false
+      },
+      {
+        "i": 19,
+        "estilo": "P",
+        "texto": "Duas palavras.",
+        "imagem": "",
+        "local": "loc_quarto_noite",
+        "linha_shotlist": false
+      },
+      {
+        "i": 20,
+        "estilo": "P",
+        "texto": "Foi a primeira vez que aceitou sem perguntar o quê.",
+        "imagem": "Plano geral do quarto: ele pequeno, a cidade grande lá fora.",
+        "local": "loc_quarto_noite",
+        "linha_shotlist": true
+      },
+      {
+        "i": 21,
+        "estilo": "P",
+        "texto": "À noite, veio um número que ele nem salvou.",
+        "imagem": "Tela: \"Foi fácil, né? Tem mais.\"",
+        "local": "loc_quarto_noite",
+        "linha_shotlist": true
+      },
+      {
+        "i": 22,
+        "estilo": "C",
+        "texto": "“Foi fácil, né? Tem mais.”",
+        "imagem": "",
+        "local": "loc_quarto_noite",
+        "linha_shotlist": false
+      }
+    ]
+  },
+  "EP09": {
+    "episodio": 9,
+    "titulo": "\"Indicação de confiança\"",
+    "fase": "4 — Dependência (virada estrutural)",
+    "caracteres": 799,
+    "frases": [
+      {
+        "i": 1,
+        "estilo": "P",
+        "texto": "Depois de três sábados, Davi já entrava no pátio sem medo.",
+        "imagem": "Davi caminhando no terminal com o passo de quem trabalha ali; ninguém o aborda.",
+        "local": "loc_terminal_patio",
+        "linha_shotlist": true
+      },
+      {
+        "i": 2,
+        "estilo": "P",
+        "texto": "Aí Sandro pediu outra coisa.",
+        "imagem": "Cafeteria de esquina, dois copos; Sandro mexe no açúcar.",
+        "local": "loc_rua_bairro",
+        "linha_shotlist": true
+      },
+      {
+        "i": 3,
+        "estilo": "C",
+        "texto": "“Preciso de mais um. Alguém de confiança. Você escolhe. Você responde por ele.”",
+        "imagem": "Close no rosto de Davi; ele entende que a palavra é a dele.",
+        "local": "loc_quarto_noite",
+        "linha_shotlist": true
+      },
+      {
+        "i": 4,
+        "estilo": "P",
+        "texto": "Quinhentos por indicação.",
+        "imagem": "Insert do guardanapo: \"500\". Davi não pega o papel.",
+        "local": "loc_quarto_noite",
+        "linha_shotlist": true
+      },
+      {
+        "i": 5,
+        "estilo": "P",
+        "texto": "Davi pensou em Ruan, do caixa da loja.",
+        "imagem": "Loja: Ruan trocando moedas na frente do caixa, foto da filha no mural.",
+        "local": "loc_loja",
+        "linha_shotlist": true
+      },
+      {
+        "i": 6,
+        "estilo": "P",
+        "texto": "Ruan tinha dívida no cartão e uma filha de dois anos.",
+        "imagem": "Close da tela do celular de Ruan com o app do banco em vermelho.",
+        "local": "loc_banco",
+        "linha_shotlist": true
+      },
+      {
+        "i": 7,
+        "estilo": "P",
+        "texto": "Ele marcou um café e explicou pouco.",
+        "imagem": "Mesmo boteco, agora dois copos de plástico; Davi falando baixo.",
+        "local": "loc_rua_bairro",
+        "linha_shotlist": true
+      },
+      {
+        "i": 8,
+        "estilo": "C",
+        "texto": "“É carga lícita. Você confere. Paga bem.”",
+        "imagem": "**A frase idêntica à que Davi ouviu no E5.** Reenquadramento espelhado do E5, mesma composição.",
+        "local": "loc_rua_bairro",
+        "linha_shotlist": true
+      },
+      {
+        "i": 9,
+        "estilo": "P",
+        "texto": "Ruan perguntou o que ele tinha perguntado.",
+        "imagem": "Close no rosto de Ruan, a mesma desconfiança simpática.",
+        "local": "loc_rua_bairro",
+        "linha_shotlist": true
+      },
+      {
+        "i": 10,
+        "estilo": "P",
+        "texto": "E Davi deu a mesma resposta que recebeu.",
+        "imagem": "Davi rindo, sem graça. Corte seco.",
+        "local": "loc_rua_bairro",
+        "linha_shotlist": true
+      },
+      {
+        "i": 11,
+        "estilo": "P",
+        "texto": "Naquele segundo, ele entendeu o que tinha virado.",
+        "imagem": "Plano de Davi sozinho na mesa; a cadeira vazia de Ruan.",
+        "local": "loc_rua_bairro",
+        "linha_shotlist": true
+      },
+      {
+        "i": 12,
+        "estilo": "P",
+        "texto": "Na semana seguinte, Sandro pediu mais um.",
+        "imagem": "Tela: \"Só um menino. Ajeitado, discreto.\"",
+        "local": "loc_quarto_noite",
+        "linha_shotlist": true
+      },
+      {
+        "i": 13,
+        "estilo": "C",
+        "texto": "“Só um menino. Ajeitado, discreto.”",
+        "imagem": "",
+        "local": "loc_quarto_noite",
+        "linha_shotlist": false
+      },
+      {
+        "i": 14,
+        "estilo": "P",
+        "texto": "Davi disse que não.",
+        "imagem": "Ele num banco de praça, telefone na orelha, negando com a cabeça.",
+        "local": "loc_banco",
+        "linha_shotlist": true
+      },
+      {
+        "i": 15,
+        "estilo": "P",
+        "texto": "Sandro não insistiu.",
+        "imagem": "Silêncio do outro lado; ele ouve a respiração.",
+        "local": "loc_banco",
+        "linha_shotlist": true
+      },
+      {
+        "i": 16,
+        "estilo": "P",
+        "texto": "Só falou o valor de novo.",
+        "imagem": "Tela: o número de antes, com um zero a mais.",
+        "local": "loc_quarto_noite",
+        "linha_shotlist": true
+      },
+      {
+        "i": 17,
+        "estilo": "P",
+        "texto": "Téo tinha dezesseis anos e era irmão do Ruan.",
+        "imagem": "Téo na loja, uniforme grande demais, carregando caixa, sorrindo para o irmão.",
+        "local": "loc_loja",
+        "linha_shotlist": true
+      },
+      {
+        "i": 18,
+        "estilo": "P",
+        "texto": "Davi levou ele numa terça, de manhã.",
+        "imagem": "Os dois na calçada às 5h40; a mesma luz azul do E7.",
+        "local": "loc_casa_carro",
+        "linha_shotlist": true
+      },
+      {
+        "i": 19,
+        "estilo": "P",
+        "texto": "Na saída, o menino agradeceu com um abraço.",
+        "imagem": "Téo de boné novo, abraçando Davi no estacionamento.",
+        "local": "loc_casa_carro",
+        "linha_shotlist": true
+      },
+      {
+        "i": 20,
+        "estilo": "P",
+        "texto": "E perguntou quando voltava.",
+        "imagem": "Rosto de Davi por cima do ombro do menino. Corte seco.",
+        "local": "loc_quarto_noite",
+        "linha_shotlist": true
+      }
+    ]
+  },
+  "EP10": {
+    "episodio": 10,
+    "titulo": "\"O porto acordou\"",
+    "fase": "5 — Coerção",
+    "caracteres": 661,
+    "frases": [
+      {
+        "i": 1,
+        "estilo": "P",
+        "texto": "Na terça seguinte, o terminal acordou diferente.",
+        "imagem": "Portão com veículos brancos parados em fila; ninguém andando.",
+        "local": "loc_casa_carro",
+        "linha_shotlist": true
+      },
+      {
+        "i": 2,
+        "estilo": "P",
+        "texto": "Três carros na portaria, sem placa de empresa.",
+        "imagem": "Insert: agentes de colete, sem rosto, abrindo porta.",
+        "local": "loc_quarto_noite",
+        "linha_shotlist": true
+      },
+      {
+        "i": 3,
+        "estilo": "P",
+        "texto": "Crachá recolhido.",
+        "imagem": "",
+        "local": "loc_quarto_noite",
+        "linha_shotlist": false
+      },
+      {
+        "i": 4,
+        "estilo": "P",
+        "texto": "Nove afastados.",
+        "imagem": "",
+        "local": "loc_quarto_noite",
+        "linha_shotlist": false
+      },
+      {
+        "i": 5,
+        "estilo": "P",
+        "texto": "Cleber não atendeu o telefone o dia inteiro.",
+        "imagem": "Davi andando na calçada com o celular na orelha; o nome \"CLEBER\" na tela.",
+        "local": "loc_casa_carro",
+        "linha_shotlist": true
+      },
+      {
+        "i": 6,
+        "estilo": "P",
+        "texto": "À noite, passou no grupo do bairro.",
+        "imagem": "Tela do celular com prints e áudios; dedos deslizando rápido.",
+        "local": "loc_quarto_noite",
+        "linha_shotlist": true
+      },
+      {
+        "i": 7,
+        "estilo": "P",
+        "texto": "Operação.",
+        "imagem": "",
+        "local": "loc_quarto_noite",
+        "linha_shotlist": false
+      },
+      {
+        "i": 8,
+        "estilo": "P",
+        "texto": "Dezesseis mandados.",
+        "imagem": "",
+        "local": "loc_quarto_noite",
+        "linha_shotlist": false
+      },
+      {
+        "i": 9,
+        "estilo": "P",
+        "texto": "Um bloqueio de milhões.",
+        "imagem": "",
+        "local": "loc_quarto_noite",
+        "linha_shotlist": false
+      },
+      {
+        "i": 10,
+        "estilo": "P",
+        "texto": "Ninguém falou o nome de ninguém.",
+        "imagem": "Close no rosto de Davi lendo deitado, luz azul no teto.",
+        "local": "loc_quarto_noite",
+        "linha_shotlist": true
+      },
+      {
+        "i": 11,
+        "estilo": "P",
+        "texto": "E todo mundo sabia qual era.",
+        "imagem": "Ele bloqueia a tela. Escuridão.",
+        "local": "loc_quarto_noite",
+        "linha_shotlist": true
+      },
+      {
+        "i": 12,
+        "estilo": "P",
+        "texto": "Sandro ligou na quinta.",
+        "imagem": "Tela com \"Sandro\" — o nome salvo no E4 agora assusta.",
+        "local": "loc_quarto_noite",
+        "linha_shotlist": true
+      },
+      {
+        "i": 13,
+        "estilo": "C",
+        "texto": "“É a última. Depois você nunca mais me vê.”",
+        "imagem": "Plano espelhado ao do E4: mesma cama, mesma luz, a voz do outro lado mais mansa.",
+        "local": "loc_quarto_noite",
+        "linha_shotlist": true
+      },
+      {
+        "i": 14,
+        "estilo": "P",
+        "texto": "Quarenta mil pra fechar a história dele.",
+        "imagem": "Insert: o número digitado num papel, a caligrafia de Davi copiando.",
+        "local": "loc_cozinha_noite",
+        "linha_shotlist": true
+      },
+      {
+        "i": 15,
+        "estilo": "P",
+        "texto": "Davi pediu prazo.",
+        "imagem": "Ele na cozinha, de madrugada, luz do fogão acesa sem ninguém cozinhando.",
+        "local": "loc_cozinha_noite",
+        "linha_shotlist": true
+      },
+      {
+        "i": 16,
+        "estilo": "P",
+        "texto": "Sandro respondeu com uma foto.",
+        "imagem": "Tela: Téo, de boné, na portaria do terminal, com um crachá de visitante.",
+        "local": "loc_terminal_patio",
+        "linha_shotlist": true
+      },
+      {
+        "i": 17,
+        "estilo": "C",
+        "texto": "“Cuida do menino, então vem.”",
+        "imagem": "Close na mandíbula de Davi; ele não respira direito por dois segundos.",
+        "local": "loc_terminal_patio",
+        "linha_shotlist": true
+      },
+      {
+        "i": 18,
+        "estilo": "P",
+        "texto": "Aí ele entendeu os três sábados.",
+        "imagem": "Montagem rápida e seca: o café, o pátio, o envelope — três planos, um segundo cada.",
+        "local": "loc_terminal_patio",
+        "linha_shotlist": true
+      },
+      {
+        "i": 19,
+        "estilo": "P",
+        "texto": "Não era pagamento.",
+        "imagem": "",
+        "local": "loc_terminal_patio",
+        "linha_shotlist": false
+      },
+      {
+        "i": 20,
+        "estilo": "P",
+        "texto": "Era fiador.",
+        "imagem": "",
+        "local": "loc_terminal_patio",
+        "linha_shotlist": false
+      },
+      {
+        "i": 21,
+        "estilo": "P",
+        "texto": "Na sexta, acordou às quatro.",
+        "imagem": "Quarto escuro; ele de pé, camisa do sábado lavada no braço.",
+        "local": "loc_quarto_noite",
+        "linha_shotlist": true
+      },
+      {
+        "i": 22,
+        "estilo": "P",
+        "texto": "Pegou a chave da moto.",
+        "imagem": "Insert da mão fechando na chave sobre a mesa da entrada.",
+        "local": "loc_quarto_noite",
+        "linha_shotlist": true
+      },
+      {
+        "i": 23,
+        "estilo": "P",
+        "texto": "E ficou com a mão na maçaneta.",
+        "imagem": "Plano longo: a porta, a luz da rua entrando embaixo dele. Ele não abre.",
+        "local": "loc_rua_bairro",
+        "linha_shotlist": true
+      }
+    ]
+  },
+  "EP11": {
+    "episodio": 11,
+    "titulo": "\"A mãe perguntou de novo\"",
+    "fase": "Saída",
+    "caracteres": 655,
+    "frases": [
+      {
+        "i": 1,
+        "estilo": "P",
+        "texto": "Davi não foi.",
+        "imagem": "A chave sobre a mesa da entrada. Plano fixo, três segundos.",
+        "local": "loc_quarto_noite",
+        "linha_shotlist": true
+      },
+      {
+        "i": 2,
+        "estilo": "P",
+        "texto": "Deixou a chave e voltou pro quarto.",
+        "imagem": "Ele deitado de cara para o teto, botas ainda nos pés.",
+        "local": "loc_quarto_noite",
+        "linha_shotlist": true
+      },
+      {
+        "i": 3,
+        "estilo": "P",
+        "texto": "Às seis e meia, a mãe estava na cozinha.",
+        "imagem": "Ela acendendo o fogão; a luz quente volta a ser a fonte principal do quadro.",
+        "local": "loc_cozinha_noite",
+        "linha_shotlist": true
+      },
+      {
+        "i": 4,
+        "estilo": "P",
+        "texto": "E fez a pergunta de sempre.",
+        "imagem": "Ela vira com o bule na mão. Não desconfiada. Só mãe.",
+        "local": "loc_cozinha_noite",
+        "linha_shotlist": true
+      },
+      {
+        "i": 5,
+        "estilo": "C",
+        "texto": "“Tá tudo bem?”",
+        "imagem": "Mesmo enquadramento do E2 e do E3, mesma mesa, mesma caneca.",
+        "local": "loc_cozinha_noite",
+        "linha_shotlist": true
+      },
+      {
+        "i": 6,
+        "estilo": "P",
+        "texto": "Davi sentou.",
+        "imagem": "Ele puxa a cadeira devagar. O tempo do plano é o tempo dele.",
+        "local": "loc_cozinha_noite",
+        "linha_shotlist": true
+      },
+      {
+        "i": 7,
+        "estilo": "P",
+        "texto": "E contou.",
+        "imagem": "Plano médio dos dois; nenhuma imagem de flashback ainda.",
+        "local": "loc_cozinha_noite",
+        "linha_shotlist": true
+      },
+      {
+        "i": 8,
+        "estilo": "P",
+        "texto": "Contou do sábado, do envelope, do número do contêiner.",
+        "imagem": "**Aqui entram os flashbacks, em cores dessaturadas, 0,8 s cada:** o café, a mão no lacre, o envelope.",
+        "local": "loc_terminal_patio",
+        "linha_shotlist": true
+      },
+      {
+        "i": 9,
+        "estilo": "P",
+        "texto": "Contou do Téo.",
+        "imagem": "Volta à cozinha; a mão dela para de segurar o bule.",
+        "local": "loc_cozinha_noite",
+        "linha_shotlist": true
+      },
+      {
+        "i": 10,
+        "estilo": "P",
+        "texto": "Ele não chorou.",
+        "imagem": "",
+        "local": "loc_cozinha_noite",
+        "linha_shotlist": false
+      },
+      {
+        "i": 11,
+        "estilo": "P",
+        "texto": "Ela também não.",
+        "imagem": "",
+        "local": "loc_cozinha_noite",
+        "linha_shotlist": false
+      },
+      {
+        "i": 12,
+        "estilo": "P",
+        "texto": "A primeira pergunta dela não foi sobre dinheiro.",
+        "imagem": "Ela ainda com as mãos na caneca, olhando o piso antes de olhar ele.",
+        "local": "loc_cozinha_noite",
+        "linha_shotlist": true
+      },
+      {
+        "i": 13,
+        "estilo": "P",
+        "texto": "Foi sobre o menino.",
+        "imagem": "Close no rosto dela: nenhuma surpresa, só decisão.",
+        "local": "loc_quarto_noite",
+        "linha_shotlist": true
+      },
+      {
+        "i": 14,
+        "estilo": "P",
+        "texto": "Ela ouviu inteira, com as duas mãos na caneca.",
+        "imagem": "",
+        "local": "loc_quarto_noite",
+        "linha_shotlist": false
+      },
+      {
+        "i": 15,
+        "estilo": "C",
+        "texto": "“Você não fez isso sozinho. E não vai sair sozinho.”",
+        "imagem": "Ela olha para ele. Sem susto, sem bronca. Uma frase de comando.",
+        "local": "loc_quarto_noite",
+        "linha_shotlist": true
+      },
+      {
+        "i": 16,
+        "estilo": "P",
+        "texto": "Ela pegou o telefone do filho.",
+        "imagem": "Ela estende a mão pela mesa; ele entrega.",
+        "local": "loc_quarto_noite",
+        "linha_shotlist": true
+      },
+      {
+        "i": 17,
+        "estilo": "P",
+        "texto": "Tirou do armário o envelope de tudo.",
+        "imagem": "Papelada: exames, contas, protocolo do posto, data da cirurgia.",
+        "local": "loc_quarto_noite",
+        "linha_shotlist": true
+      },
+      {
+        "i": 18,
+        "estilo": "P",
+        "texto": "E colocou na mesa, na ordem das datas.",
+        "imagem": "As mãos dos dois arrumando os papéis em fila.",
+        "local": "loc_quarto_noite",
+        "linha_shotlist": true
+      },
+      {
+        "i": 19,
+        "estilo": "P",
+        "texto": "Às sete e vinte, os dois estavam na mesa.",
+        "imagem": "Plano geral da cozinha com as duas canecas e a papelada; luz da manhã entrando.",
+        "local": "loc_cozinha_noite",
+        "linha_shotlist": true
+      },
+      {
+        "i": 20,
+        "estilo": "P",
+        "texto": "O celular vibrou quatorze vezes.",
+        "imagem": "Tela com as notificações empilhadas; o celular tremendo na madeira da mesa.",
+        "local": "loc_quarto_noite",
+        "linha_shotlist": true
+      },
+      {
+        "i": 21,
+        "estilo": "P",
+        "texto": "Davi olhou pra tela.",
+        "imagem": "Ele olha; a mãe não tira os olhos dele.",
+        "local": "loc_quarto_noite",
+        "linha_shotlist": true
+      },
+      {
+        "i": 22,
+        "estilo": "P",
+        "texto": "E não respondeu nenhuma.",
+        "imagem": "Ele vira o celular para baixo. Corte para preto.",
+        "local": "loc_quarto_noite",
+        "linha_shotlist": true
+      }
+    ]
+  },
+  "EP12": {
+    "episodio": 12,
+    "titulo": "\"Anônimo\"",
+    "fase": "Saída (resolução e custo)",
+    "caracteres": 805,
+    "frases": [
+      {
+        "i": 1,
+        "estilo": "P",
+        "texto": "Às oito, Davi estava na calçada.",
+        "imagem": "Ele sentado no meio-fio na frente de casa, telefone na mão, cidade acordando.",
+        "local": "loc_quarto_noite",
+        "linha_shotlist": true
+      },
+      {
+        "i": 2,
+        "estilo": "P",
+        "texto": "Ligou para um número de três dígitos que não pede nome.",
+        "imagem": "Insert da tela: `181`. Os três algarismos grandes, sem contato salvo.",
+        "local": "loc_quarto_noite",
+        "linha_shotlist": true
+      },
+      {
+        "i": 3,
+        "estilo": "P",
+        "texto": "Dois minutos.",
+        "imagem": "",
+        "local": "loc_quarto_noite",
+        "linha_shotlist": false
+      },
+      {
+        "i": 4,
+        "estilo": "P",
+        "texto": "Ele não disse quem era.",
+        "imagem": "",
+        "local": "loc_quarto_noite",
+        "linha_shotlist": false
+      },
+      {
+        "i": 5,
+        "estilo": "P",
+        "texto": "Falou o portão, a carga, o turno.",
+        "imagem": "Close na boca dele falando baixo, rápido, como quem tem medo de ser interrompido.",
+        "local": "loc_quarto_noite",
+        "linha_shotlist": true
+      },
+      {
+        "i": 6,
+        "estilo": "P",
+        "texto": "E falou o nome do menino de dezesseis anos.",
+        "imagem": "Ele para um segundo antes de falar o nome. É a única hesitação do episódio.",
+        "local": "loc_quarto_noite",
+        "linha_shotlist": true
+      },
+      {
+        "i": 7,
+        "estilo": "P",
+        "texto": "O segundo telefonema foi com a mãe ao lado.",
+        "imagem": "Cozinha; o viva-voz na mesa, a mão dela sobre a dele.",
+        "local": "loc_cozinha_noite",
+        "linha_shotlist": true
+      },
+      {
+        "i": 8,
+        "estilo": "P",
+        "texto": "Uma defensoria pública às nove da manhã.",
+        "imagem": "Corredor de instituição pública, senhas de papel, banco de plástico.",
+        "local": "loc_banco",
+        "linha_shotlist": true
+      },
+      {
+        "i": 9,
+        "estilo": "P",
+        "texto": "No mesmo dia, ele levou o Téo para a casa do avô.",
+        "imagem": "Estrada para Gaspar; mochila no ombro do menino; Davi devolvendo o capacete.",
+        "local": "loc_banco",
+        "linha_shotlist": true
+      },
+      {
+        "i": 10,
+        "estilo": "P",
+        "texto": "Na semana seguinte, a loja o chamou de volta.",
+        "imagem": "Vitrine da loja com o nome dele na lista de recontratação.",
+        "local": "loc_loja",
+        "linha_shotlist": true
+      },
+      {
+        "i": 11,
+        "estilo": "P",
+        "texto": "Sandro nunca mais ligou.",
+        "imagem": "Tela com o último contato, três semanas antes, sem resposta.",
+        "local": "loc_quarto_noite",
+        "linha_shotlist": true
+      },
+      {
+        "i": 12,
+        "estilo": "P",
+        "texto": "Dois amigos do time pararam de responder.",
+        "imagem": "Grupo de WhatsApp com duas mensagens visualizadas e não respondidas.",
+        "local": "loc_quarto_noite",
+        "linha_shotlist": true
+      },
+      {
+        "i": 13,
+        "estilo": "P",
+        "texto": "No bairro, ele virou “o que falou”.",
+        "imagem": "",
+        "local": "loc_quarto_noite",
+        "linha_shotlist": false
+      },
+      {
+        "i": 14,
+        "estilo": "P",
+        "texto": "Ouviu coisas na rua que ninguém devia ouvir aos vinte.",
+        "imagem": "Ele andando com a cabeça baixa, mãos no bolso, campo de terra ao fundo.",
+        "local": "loc_campo_bairro",
+        "linha_shotlist": true
+      },
+      {
+        "i": 15,
+        "estilo": "P",
+        "texto": "E não perdeu nada que valia alguma coisa.",
+        "imagem": "Close: a caneca da mãe na mesa da cozinha, limpa, dois lugares postos.",
+        "local": "loc_cozinha_noite",
+        "linha_shotlist": true
+      },
+      {
+        "i": 16,
+        "estilo": "P",
+        "texto": "A cirurgia aconteceu.",
+        "imagem": "Ela no corredor, touca descartável, fazendo sinal de joia, com vergonha e riso.",
+        "local": "loc_cozinha_noite",
+        "linha_shotlist": true
+      },
+      {
+        "i": 17,
+        "estilo": "P",
+        "texto": "A carteira dele ficou vazia por seis meses.",
+        "imagem": "Geladeira com contas presas por imã; o calendário virando duas folhas.",
+        "local": "loc_cozinha_noite",
+        "linha_shotlist": true
+      },
+      {
+        "i": 18,
+        "estilo": "P",
+        "texto": "Ninguém devolve os sábados que ele perdeu.",
+        "imagem": "Ele na moto, sozinho, no mesmo horário azul do E7.",
+        "local": "loc_cozinha_noite",
+        "linha_shotlist": true
+      },
+      {
+        "i": 19,
+        "estilo": "P",
+        "texto": "Mas em abril, o irmão do Ruan voltou a estudar.",
+        "imagem": "Téo de mochila na porta de escola estadual, dia claro.",
+        "local": "loc_cozinha_noite",
+        "linha_shotlist": true
+      },
+      {
+        "i": 20,
+        "estilo": "P",
+        "texto": "Denunciar não apaga o que aconteceu.",
+        "imagem": "Plano fixo da janela do quarto; as luzes do porto ao fundo, finalmente vistas de dia.",
+        "local": "loc_quarto_noite",
+        "linha_shotlist": true
+      },
+      {
+        "i": 21,
+        "estilo": "P",
+        "texto": "Apaga o que ia acontecer.",
+        "imagem": "Corte para preto sobre a última frase.",
+        "local": "loc_quarto_noite",
+        "linha_shotlist": true
+      }
+    ]
+  }
+}

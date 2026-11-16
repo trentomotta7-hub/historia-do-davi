@@ -11,3 +11,10 @@ chk/
 qa/f_*
 node_modules/
 __pycache__/
+EP04/segments/
+EP*/segments/
+EP04/narracao_ep04_lenta.wav
+EP*/narracao_*_lenta.wav
+EP04/qa2/
+EP*/qa2/
+EP04/narracao_ep04_crua_orig.wav

@@ -37,6 +37,16 @@ Voz `pt-br-storyteller-5`, idioma `pt-BR`, **uma chamada por episódio**, texto 
 
 Nada de instruções de estilo no prompt de voz. A emoção da série está nas pausas, e as pausas são construídas no passo 3, não pedidas ao locutor.
 
+## Passo 2.5 — desacelerar a voz ANTES de medir (0 chamadas)
+
+A Voz A Articula a ~21,9 caracteres/s contra ~19–20 do narrador original. O jeito certo de corrigir é aplicar `atempo` **no arquivo de áudio bruto** e só então medir:
+
+```bash
+ffmpeg -v error -y -i EP05/narracao_ep05.wav -af "atempo=0.94" -ar 48000 -c:a pcm_s16le EP05/narracao_ep05_lenta.wav
+```
+
+No passo 3 use `EP05/narracao_ep05_lenta.wav`. Se você desacelerar dentro do mix, depois de medir, o áudio final sai com 6% menos tempo do que a legenda e os clipes esperam — e é exatamente isso que fazia o vídeo correr na frente da narração.
+
 ## Passo 3 — medir o áudio real (0 chamadas)
 
 ```bash
@@ -92,7 +102,8 @@ O script posiciona cada clipe na janela real do bloco (com pré-roll e congelame
 
 | Item | Situação |
 |---|---|
-| EP04 ficou dessincronizado em ~2 frases e a voz 10–15% mais rápida que o narrador original | **não re-renderizado** (custo). A correção vale a partir do E5. Refazer o E4 custaria 6 clipes |
+| EP04 dessincronizado e voz rápida | **re-feito sem geração nova**: 13 segmentos recortados dos 4 clipes existentes, recolocados nas janelas medidas da voz a 0,94. Deriva máxima 0,00 s |
+| Consequência metodológica descoberta na refação | cada clipe de 15 s do tier econômico contém 3 planos internos com fronteiras próprias; reaproveitar um clipe exige recortar por plano, não por bloco. É o que faz `reaproveitar_clipes.py` |
 | Locações novas ainda sem referência | terminal/pátio, portaria, ônibus, loja, boteco, banco — 5 a 6 imagens, geradas uma vez para a temporada |
 | Personagens coadjuvantes sem folha | Cleber, Ruan, Téo entram a partir do E7/E9; gerar `cleber_mestre.png` etc. antes de precisar |
 | Pico de −0,9 dBTP no E4 | corrigido no v2 com teto −1,5 |

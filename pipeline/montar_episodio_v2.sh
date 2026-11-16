@@ -19,7 +19,6 @@ cd "$(dirname "$0")/.."          # raiz do repositório
 
 EP="${1:-EP04}"
 W=1080; H=1920; FPS=24
-VELOC=0.94
 DIR="$EP"
 VOZ="$DIR/narracao_${EP,,}_timed.wav"
 BLOCOS="dados/blocos_${EP}.json"
@@ -66,7 +65,7 @@ FADE=$(bc -l <<< "$TOTAL-2.4")
 ffmpeg -v error -y -i "$VOZ" -stream_loop -1 -i "$CAMA" -i "$VIB" \
   -f lavfi -t "$TOTAL" -i "anullsrc=r=48000:cl=stereo" \
   -filter_complex "\
-[0:a]atempo=${VELOC},aresample=48000,aformat=sample_fmts=fltp:channel_layouts=stereo,highpass=f=85,acompressor=threshold=0.09:ratio=2.6:attack=12:release=220:makeup=1.6[vf];\
+[0:a]aresample=48000,aformat=sample_fmts=fltp:channel_layouts=stereo,highpass=f=85,acompressor=threshold=0.09:ratio=2.6:attack=12:release=220:makeup=1.6[vf];\
 [vf]asplit=2[vsc][vmx];\
 [1:a]aresample=48000,aformat=sample_fmts=fltp:channel_layouts=stereo,atrim=0:${TOTAL},volume=0.20,afade=t=in:d=2,afade=t=out:st=${FADE}:d=2.2[cama];\
 [cama][vsc]sidechaincompress=threshold=0.035:ratio=8:attack=70:release=520[cd];\

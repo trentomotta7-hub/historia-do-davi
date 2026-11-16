@@ -1,15 +1,15 @@
 {
   "episodio": "EP04",
-  "voz_total": 54.015,
-  "imagem_total": 58.615,
+  "voz_total": 56.418,
+  "imagem_total": 61.018,
   "dur_max": 15.0,
   "chamadas_de_video": 6,
   "blocos": [
     {
       "bloco": 1,
       "inicio": 0.0,
-      "fim": 15.389,
-      "duracao": 15.389,
+      "fim": 16.073,
+      "duracao": 16.073,
       "frases": [
         "Davi ficou com o dedo sobre o botão.",
         "O número não era desconhecido.",
@@ -35,9 +35,9 @@
     },
     {
       "bloco": 2,
-      "inicio": 15.989,
-      "fim": 18.311,
-      "duracao": 2.322,
+      "inicio": 16.673,
+      "fim": 19.093,
+      "duracao": 2.42,
       "frases": [
         "Quem patrocinava o time e pagava o aluguel do campo."
       ],
@@ -47,14 +47,14 @@
       "planos": [
         "Plano de Sandro acendendo o refletor do campo com a chave do carro no bolso."
       ],
-      "inicio_pedido": 13.311,
+      "inicio_pedido": 14.093,
       "duracao_pedido": 5.0
     },
     {
       "bloco": 3,
-      "inicio": 18.361,
-      "fim": 25.203,
-      "duracao": 6.842,
+      "inicio": 19.143,
+      "fim": 26.309,
+      "duracao": 7.166,
       "frases": [
         "Quem levou a mãe dele ao hospital e não quis receber nada.",
         "“Aquele número é nosso, tranquilo. Não é nada errado. Só quero te mostrar uma coisa.”"
@@ -65,14 +65,14 @@
       "planos": [
         "Flash-back: carro branco na frente de casa, mãe no banco da frente, Sandro na calçada recusando o dinheiro com a mão."
       ],
-      "inicio_pedido": 18.361,
-      "duracao_pedido": 6.842
+      "inicio_pedido": 19.143,
+      "duracao_pedido": 7.166
     },
     {
       "bloco": 4,
-      "inicio": 25.397,
-      "fim": 39.202,
-      "duracao": 13.805,
+      "inicio": 26.568,
+      "fim": 40.943,
+      "duracao": 14.375,
       "frases": [
         "Davi perguntou o que era.",
         "Sandro riu baixo.",
@@ -88,14 +88,14 @@
         "Davi olha a tela depois de desligar; o contato agora com nome salvo.",
         "Insert do cronômetro da chamada; o quarto mudo atrás dele."
       ],
-      "inicio_pedido": 25.397,
-      "duracao_pedido": 13.805
+      "inicio_pedido": 26.568,
+      "duracao_pedido": 14.375
     },
     {
       "bloco": 5,
-      "inicio": 39.285,
-      "fim": 43.619,
-      "duracao": 4.334,
+      "inicio": 41.08,
+      "fim": 45.573,
+      "duracao": 4.493,
       "frases": [
         "Foi o suficiente."
       ],
@@ -105,14 +105,14 @@
       "planos": [
         "Davi deita de novo, mãos atrás da cabeça, luz azul da janela no teto."
       ],
-      "inicio_pedido": 38.619,
+      "inicio_pedido": 40.573,
       "duracao_pedido": 5.0
     },
     {
       "bloco": 6,
-      "inicio": 44.219,
-      "fim": 54.615,
-      "duracao": 10.396,
+      "inicio": 46.173,
+      "fim": 57.018,
+      "duracao": 10.845,
       "frases": [
         "E ninguém falou em dinheiro.",
         "Na cozinha, a mãe perguntou quem era.",
@@ -127,8 +127,8 @@
         "Davi de frente, meio sorriso, o celular na mesa entre os dois.",
         "Ele pega o celular. Corte seco para preto."
       ],
-      "inicio_pedido": 44.219,
-      "duracao_pedido": 10.396
+      "inicio_pedido": 46.173,
+      "duracao_pedido": 10.845
     }
   ]
 }

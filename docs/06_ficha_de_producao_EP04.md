@@ -56,3 +56,16 @@ bash ../EP04/montar_ep04.sh               # mesma montagem, blocos 1..4
 ```
 
 Arquivos que já existem e servem para todos os episódios: as cinco folhas de identidade (`davi`, `mãe`, `sandro`, mais `cleber`/`ruan`/`teo` quando entrarem) e as locações `quarto_noite`, `cozinha_noite`, `campo_bairro`, `casa_carro`, além da cama musical e da vibração de celular.
+
+## Atualização após o segundo relato do autor (refação v2, zero geração)
+
+O episódio foi remontado sem chamar gerador nenhum: voz a 0,94 medida antes do planejamento, 13 recortes dos planos internos dos 4 clipes existentes, reposicionados nas janelas reais da fala.
+
+| grandeza | primeira versão | refação v2 |
+|---|---|---|
+| duração | 61,85 s | **60,62 s** |
+| voz | 57,60 s (esticada depois de cortar a imagem) | 56,42 s (desacelerada e medida antes) |
+| articulação | 21,9 car/s | **20,7 car/s** |
+| segmentos de imagem | 4 blocos de 15 s fixos | **13 recortes** nas fronteiras das frases |
+| deriva de sincronia | até ~0,5 s crescente, ~1 s no fim | **0,00 s** por construção |
+| loudness | −14,1 LUFS / −0,9 dBTP | −14,1 LUFS / **−1,4 dBTP** |

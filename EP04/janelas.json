@@ -1,0 +1,196 @@
+{
+  "episodio": "EP04",
+  "voz_total": 56.418,
+  "imagem_total": 60.618,
+  "preto_canais": 2.2,
+  "segmentos": [
+    {
+      "n": 1,
+      "frases": [
+        1,
+        2
+      ],
+      "src": "bloco1.mp4",
+      "in": 0.0,
+      "out": 5.0,
+      "origem": 5.0,
+      "inicio": 0.0,
+      "fim": 5.451,
+      "janela": 5.451,
+      "congelar": 0.451
+    },
+    {
+      "n": 2,
+      "frases": [
+        3,
+        4
+      ],
+      "src": "bloco1.mp4",
+      "in": 5.0,
+      "out": 10.0,
+      "origem": 5.0,
+      "inicio": 5.451,
+      "fim": 10.902,
+      "janela": 5.451,
+      "congelar": 0.451
+    },
+    {
+      "n": 3,
+      "frases": [
+        5,
+        6,
+        7
+      ],
+      "src": "bloco1.mp4",
+      "in": 10.0,
+      "out": 15.0,
+      "origem": 5.0,
+      "inicio": 10.902,
+      "fim": 16.623,
+      "janela": 5.721,
+      "congelar": 0.721
+    },
+    {
+      "n": 4,
+      "frases": [
+        8
+      ],
+      "src": "bloco2.mp4",
+      "in": 0.0,
+      "out": 2.6,
+      "origem": 2.6,
+      "inicio": 16.623,
+      "fim": 19.093,
+      "janela": 2.47,
+      "congelar": 0.0
+    },
+    {
+      "n": 5,
+      "frases": [
+        9
+      ],
+      "src": "bloco2.mp4",
+      "in": 5.0,
+      "out": 8.6,
+      "origem": 3.6,
+      "inicio": 19.093,
+      "fim": 22.634,
+      "janela": 3.541,
+      "congelar": 0.0
+    },
+    {
+      "n": 6,
+      "frases": [
+        10
+      ],
+      "src": "bloco2.mp4",
+      "in": 10.0,
+      "out": 13.6,
+      "origem": 3.6,
+      "inicio": 22.634,
+      "fim": 26.518,
+      "janela": 3.884,
+      "congelar": 0.284
+    },
+    {
+      "n": 7,
+      "frases": [
+        11
+      ],
+      "src": "bloco3.mp4",
+      "in": 0.0,
+      "out": 5.0,
+      "origem": 5.0,
+      "inicio": 26.518,
+      "fim": 31.532,
+      "janela": 5.014,
+      "congelar": 0.014
+    },
+    {
+      "n": 8,
+      "frases": [
+        12
+      ],
+      "src": "bloco3.mp4",
+      "in": 5.0,
+      "out": 9.0,
+      "origem": 4.0,
+      "inicio": 31.532,
+      "fim": 36.256,
+      "janela": 4.724,
+      "congelar": 0.724
+    },
+    {
+      "n": 9,
+      "frases": [
+        13,
+        14
+      ],
+      "src": "bloco3.mp4",
+      "in": 9.0,
+      "out": 13.8,
+      "origem": 4.8,
+      "inicio": 36.256,
+      "fim": 41.03,
+      "janela": 4.774,
+      "congelar": 0.0
+    },
+    {
+      "n": 10,
+      "frases": [
+        15
+      ],
+      "src": "bloco2.mp4",
+      "in": 11.4,
+      "out": 15.0,
+      "origem": 3.6,
+      "inicio": 41.03,
+      "fim": 46.123,
+      "janela": 5.093,
+      "congelar": 1.493
+    },
+    {
+      "n": 11,
+      "frases": [
+        16
+      ],
+      "src": "bloco4.mp4",
+      "in": 0.0,
+      "out": 2.2,
+      "origem": 2.2,
+      "inicio": 46.123,
+      "fim": 48.142,
+      "janela": 2.019,
+      "congelar": 0.0
+    },
+    {
+      "n": 12,
+      "frases": [
+        17,
+        18
+      ],
+      "src": "bloco4.mp4",
+      "in": 5.0,
+      "out": 10.0,
+      "origem": 5.0,
+      "inicio": 48.142,
+      "fim": 54.072,
+      "janela": 5.93,
+      "congelar": 0.93
+    },
+    {
+      "n": 13,
+      "frases": [
+        19
+      ],
+      "src": "bloco4.mp4",
+      "in": 10.0,
+      "out": 15.0,
+      "origem": 5.0,
+      "inicio": 54.072,
+      "fim": 58.418,
+      "janela": 4.346,
+      "congelar": 0.0
+    }
+  ]
+}

@@ -17,7 +17,7 @@ O clone traz tudo o que é preciso para retomar a produção em outra sessão, i
 | E1 | (produção original do autor) | 1 — Aproximação | entregue, serve de referência de estilo | `media/final/EP01_original.mp4` |
 | E2 | (produção original do autor) | 1 — Aproximação | entregue | `media/final/EP02_original.mp4` |
 | E3 | (produção original do autor) | 1 → 2 | entregue; é o episódio mais bem resolvido, use como gabarito | `media/final/EP03_original.mp4` |
-| **E4** | **"Quem liga"** | **2 — Vínculo** | **produzido nesta pipeline, 61,9 s, −14 LUFS** | `media/final/EP04_quem_liga.mp4` |
+| **E4** | **"Quem liga"** | **2 — Vínculo** | **produzido e depois recortado pela v2: 60,6 s, −14 LUFS, sincronia frase a frase** | `media/final/EP04_quem_liga.mp4` |
 | E4 | trecho de aprovação de visual | 2 | material de teste aprovado | `media/final/EP04_trecho_aprovacao.mp4` |
 | E5–E12 | roteirizados, com shot list e narração pronta | 3 → Saída | aguardando produção | `docs/03_roteiros_E4_a_E12.md` |
 

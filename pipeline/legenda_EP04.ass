@@ -1,5 +1,5 @@
 [Script Info]
-; EP04 - legenda gerada sobre o audio medido (54.02 s de voz)
+; EP04 - legenda gerada sobre o audio medido (56.42 s de voz)
 Title: A histÃ³ria do Davi - EP04
 ScriptType: v4.00+
 WrapStyle: 0
@@ -16,26 +16,26 @@ Style: Canais,DejaVu Sans,46,&H00FFFFFF,&H000000FF,&H00000000,&H80000000,0,0,0,0
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
-Dialogue: 0,0:00:00.25,0:00:02.47,Padrao,,0,0,0,,Davi ficou com o dedo\Nsobre o botão.
-Dialogue: 0,0:00:03.12,0:00:04.87,Padrao,,0,0,0,,O número não era\Ndesconhecido.
-Dialogue: 0,0:00:05.52,0:00:07.22,Padrao,,0,0,0,,Ele atendeu no terceiro\Ntoque.
-Dialogue: 0,0:00:07.89,0:00:09.96,Padrao,,0,0,0,,Do outro lado, uma voz que\Nele conhecia.
-Dialogue: 0,0:00:10.64,0:00:11.62,Cita,,0,0,0,,“Davi, meu filho. Aqui é o\NSandro.”
-Dialogue: 0,0:00:12.27,0:00:13.20,Padrao,,0,0,0,,Sandro.
-Dialogue: 0,0:00:14.40,0:00:15.04,Padrao,,0,0,0,,O cara boa do bairro.
-Dialogue: 0,0:00:16.24,0:00:17.96,Padrao,,0,0,0,,Quem patrocinava o time e\Npagava o aluguel do campo.
-Dialogue: 0,0:00:18.61,0:00:20.19,Padrao,,0,0,0,,Quem levou a mãe dele ao\Nhospital
-Dialogue: 0,0:00:20.19,0:00:21.34,Padrao,,0,0,0,,e não quis receber nada.
-Dialogue: 0,0:00:21.99,0:00:23.36,Cita,,0,0,0,,“Aquele número é nosso,\Ntranquilo. Não é
-Dialogue: 0,0:00:23.36,0:00:24.85,Cita,,0,0,0,,nada errado. Só quero te\Nmostrar uma coisa.”
-Dialogue: 0,0:00:25.65,0:00:29.86,Padrao,,0,0,0,,Davi perguntou o que era.
-Dialogue: 0,0:00:30.51,0:00:33.85,Padrao,,0,0,0,,Sandro riu baixo.
-Dialogue: 0,0:00:35.05,0:00:36.20,Cita,,0,0,0,,“Coisa de gente em que a\Ngente confia.”
-Dialogue: 0,0:00:36.89,0:00:38.85,Padrao,,0,0,0,,A ligação durou um minuto\Ne quarenta.
-Dialogue: 0,0:00:39.53,0:00:43.27,Padrao,,0,0,0,,Foi o suficiente.
-Dialogue: 0,0:00:44.47,0:00:45.76,Padrao,,0,0,0,,E ninguém falou em\Ndinheiro.
-Dialogue: 0,0:00:46.41,0:00:48.22,Padrao,,0,0,0,,Na cozinha, a mãe\Nperguntou quem era.
-Dialogue: 0,0:00:48.87,0:00:50.90,Cita,,0,0,0,,“Um amigo. Do time.”
-Dialogue: 0,0:00:52.10,0:00:54.02,Padrao,,0,0,0,,E foi a primeira vez que\Nele gostou de responder.
-Dialogue: 1,0:00:54.16,0:00:56.02,Cartela,,0,0,0,,{\an5}FASE 2 — VÍNCULO
-Dialogue: 1,0:00:56.22,0:00:58.22,Canais,,0,0,0,,{\an2}Disque Denúncia 181 · anônimo e gratuito\NComunica PF: gov.br/pf   |   CVV 188 · 24h
+Dialogue: 0,0:00:00.25,0:00:02.60,Padrao,,0,0,0,,Davi ficou com o dedo\Nsobre o botão.
+Dialogue: 0,0:00:03.25,0:00:05.10,Padrao,,0,0,0,,O número não era\Ndesconhecido.
+Dialogue: 0,0:00:05.75,0:00:07.54,Padrao,,0,0,0,,Ele atendeu no terceiro\Ntoque.
+Dialogue: 0,0:00:08.28,0:00:10.46,Padrao,,0,0,0,,Do outro lado, uma voz que\Nele conhecia.
+Dialogue: 0,0:00:11.20,0:00:12.22,Cita,,0,0,0,,“Davi, meu filho. Aqui é o\NSandro.”
+Dialogue: 0,0:00:12.88,0:00:13.86,Padrao,,0,0,0,,Sandro.
+Dialogue: 0,0:00:15.06,0:00:15.72,Padrao,,0,0,0,,O cara boa do bairro.
+Dialogue: 0,0:00:16.92,0:00:18.74,Padrao,,0,0,0,,Quem patrocinava o time e\Npagava o aluguel do campo.
+Dialogue: 0,0:00:19.39,0:00:21.07,Padrao,,0,0,0,,Quem levou a mãe dele ao\Nhospital
+Dialogue: 0,0:00:21.07,0:00:22.28,Padrao,,0,0,0,,e não quis receber nada.
+Dialogue: 0,0:00:22.93,0:00:24.37,Cita,,0,0,0,,“Aquele número é nosso,\Ntranquilo. Não é
+Dialogue: 0,0:00:24.37,0:00:25.96,Cita,,0,0,0,,nada errado. Só quero te\Nmostrar uma coisa.”
+Dialogue: 0,0:00:26.82,0:00:31.18,Padrao,,0,0,0,,Davi perguntou o que era.
+Dialogue: 0,0:00:31.83,0:00:35.36,Padrao,,0,0,0,,Sandro riu baixo.
+Dialogue: 0,0:00:36.56,0:00:37.76,Cita,,0,0,0,,“Coisa de gente em que a\Ngente confia.”
+Dialogue: 0,0:00:38.52,0:00:40.59,Padrao,,0,0,0,,A ligação durou um minuto\Ne quarenta.
+Dialogue: 0,0:00:41.33,0:00:45.22,Padrao,,0,0,0,,Foi o suficiente.
+Dialogue: 0,0:00:46.42,0:00:47.79,Padrao,,0,0,0,,E ninguém falou em\Ndinheiro.
+Dialogue: 0,0:00:48.44,0:00:50.35,Padrao,,0,0,0,,Na cozinha, a mãe\Nperguntou quem era.
+Dialogue: 0,0:00:51.07,0:00:53.17,Cita,,0,0,0,,“Um amigo. Do time.”
+Dialogue: 0,0:00:54.37,0:00:56.42,Padrao,,0,0,0,,E foi a primeira vez que\Nele gostou de responder.
+Dialogue: 1,0:00:56.57,0:00:58.42,Cartela,,0,0,0,,{\an5}FASE 2 — VÍNCULO
+Dialogue: 1,0:00:58.62,0:01:00.62,Canais,,0,0,0,,{\an2}Disque Denúncia 181 · anônimo e gratuito\NComunica PF: gov.br/pf   |   CVV 188 · 24h

@@ -69,3 +69,33 @@ Rodando `medir_frases.py` + `planejar_blocos.py` + `gerar_legendas.py` sobre a n
 A v2 ficou 3,6 s mais curta exatamente por parar de inflar pausa uniformemente: devolve silêncio nas frases longas e concentra silêncio depois do golpe. É a leitura dos episódios originais.
 
 Refazer o EP04 com a correção pede 6 clipes novos (3 reaproveitáveis do próprio episódio). Ficou registrado como pendência em `CONTINUA_AQUI.md`, não como tarefa imediata: a verba rende mais começando pelo E5, onde o defeito ainda não existe.
+
+## Segundo relato do autor: "o vídeo está adiantado para a narração"
+
+Confirmado, e a causa é mais específica do que a primeira diagnose. No EP04 entregue eu fiz as coisas em ordem invertida:
+
+1. gerei os 4 clipes de 15 s contra o tempo **estimado** do roteiro;
+2. gerei a voz;
+3. **estichei as pausas da voz depois disso**, para chegar perto do minuto.
+
+Ou seja: a imagem foi cortada no relógio de 49 s da voz crua, e a voz que toca em cima é a de 57,6 s. Toda frase passou a cair ~0,3 a 0,5 s depois do plano que a ilustra, e o efeito acumula — no fim do episódio a imagem corre quase um segundo à frente. É literalmente "primeiro aparece, depois ele fala".
+
+### Correção definitiva, aplicada sem gerar mídia nova
+
+Como cada clipe de 15 s do tier econômico foi promptado em três planos internos (`Shot 1 0-5s`, `Shot 2 5-10s`, `Shot 3 10-15s`), o material já contém cortes compatíveis com frases individuais. `reaproveitar_clipes.py` recorta esses 12 planos internos, acrescenta um décimo terceiro recorte onde a frase pedia outra respiração, e reposiciona cada recorte na janela medida da sua frase (`início = t0 − 0,30 s`, `fim = início do próximo recorte`). Resultado: **deriva máxima 0,00 s por construção**, com congelamento máximo de 1,49 s em um único segmento.
+
+Passos executados sobre mídia que já existia:
+
+| etapa | arquivo | custo |
+|---|---|---|
+| desacelerar a voz | `atempo=0.94` → 52,49 s | zero chamadas |
+| medir o áudio desacelerado | `medir_frases.py` → voz retemporizada 56,42 s | zero |
+| recortar e reposicionar planos | `reaproveitar_clipes.py` → 13 segmentos | zero |
+| legenda sobre o novo relógio | 21 cues + 2 cartelas | zero |
+| montagem + loudnorm −14 LUFS / −1,4 dBTP | `EP04_final.mp4`, 60,62 s, 37,5 MB | zero |
+
+### Regra nova que entrou na pipeline
+
+A desaceleração aconteceu **antes** da medição, não dentro do mix. Medir o tempo de uma voz e tocar outra é a mesma família de erro que gerou a primeira deriva: áudio, legenda e imagem precisam nascer do mesmo arquivo medido. `montar_episodio_v2.sh` não tem mais `atempo` no grafo de mix — o passo 2.5 do `CONTINUA_AQUI.md` aplica `atempo` no bruto e o passo 3 mede o resultado.
+
+Estado atual do EP04: `media/final/EP04_quem_liga.mp4` (v2). Os quadros de conferência frase a frase estão em `media/conferencia/EP04_v2_sincronia_A.jpg` e `_B.jpg` — um quadro por segmento, capturado no meio da frase que ele ilustra.

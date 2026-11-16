@@ -47,7 +47,25 @@ Arquivos novos neste repositório, já com as correções:
 
 - `pipeline/planejar_blocos.py` — deriva blocos de imagem do áudio medido
 - `pipeline/montar_episodio_v2.sh` — montagem genérica com `VELOC`, `PAUSA_MIN`, cartelas e loudnorm em duas passadas
-- `pipeline/retimed_e_legendas.py` — retemporização com piso de pausa e cue limitada ao fim da fala
+- `pipeline/medir_frases.py` e `pipeline/gerar_legendas.py` — retemporização com piso de pausa e cue limitada ao fim da fala
+- `pipeline/extrair_narracoes.py` — roteiro → frases com estilo e locação (scanner de aspas, não regex)
 - `dados/narracoes.json` — texto de narração de E4 a E12 já dividido em frases com marca de estilo (`P` narração / `C` citação)
 
 O EP04 entregue permanece como está (a correção não re-renderiza o que já foi gasto). Para E5 em diante o pipeline v2 é o padrão, e o defeito relatado não deve reaparecer.
+
+## Re medição do mesmo áudio com a pipeline v2 (executada, não projetada)
+
+Rodando `medir_frases.py` + `planejar_blocos.py` + `gerar_legendas.py` sobre a narração crua do EP04 que está versionada em `media/audios/EP04_narracao_crua.wav`:
+
+| grandeza | v1 (episódio entregue) | v2 (planejamento corrigido) |
+|---|---|---|
+| frases reconhecidas | 19 | 19 |
+| citações preservadas inteiras | 4, duas delas partidas no meio | 4, nenhuma partida |
+| voz retemporizada | 57,60 s (pausas distribuídas por igual) | **54,02 s** (piso de pausa + reforço no golpe) |
+| blocos de imagem | 4 janelas fixas de 15 s | **6 blocos** nas fronteiras reais: 15,00 / 5,00 / 6,84 / 13,81 / 5,00 / 10,40 s |
+| quebra de cena casada com a fala | não | sim — o flashback do campo e o da casa viram blocos próprios |
+| cues de legenda | 21, ocupando a pausa inteira | **21 + 2 cartelas**, terminando no fim da fala |
+
+A v2 ficou 3,6 s mais curta exatamente por parar de inflar pausa uniformemente: devolve silêncio nas frases longas e concentra silêncio depois do golpe. É a leitura dos episódios originais.
+
+Refazer o EP04 com a correção pede 6 clipes novos (3 reaproveitáveis do próprio episódio). Ficou registrado como pendência em `CONTINUA_AQUI.md`, não como tarefa imediata: a verba rende mais começando pelo E5, onde o defeito ainda não existe.

@@ -2,6 +2,17 @@
 
 Este arquivo existe para o caso de uso real do projeto: **clonar o repositório numa sessão nova de IA e continuar produzindo sem reexplicar nada**. Siga a ordem. Não pule etapa, porque cada etapa anterior economiza uma chamada de geração depois.
 
+## Passo -1 — obter o projeto
+
+```bash
+git clone https://github.com/trentomotta7-hub/historia-do-davi
+cd historia-do-davi
+```
+
+O repositório é público e já contém os episódios entregues, as referências visuais, a cama musical, a vibração de celular, as duas amostras de voz e todos os JSON intermediários do E4. Nada precisa ser regenerado para retomar, exceto a mídia do episódio novo.
+
+A pipeline foi testada a partir de um clone limpo: os passos 1, 3, 4 e 5 rodam sem ajuste e reproduzem exatamente os tempos e blocos do EP04 (`54,02 s de voz`, `6 blocos`, `21 cues + 2 cartelas`).
+
 ## Passo 0 — ler antes de gerar qualquer coisa
 
 1. `INTELIGENCIA.md` (voz, escrita, bíblia visual, legenda, áudio, custo).

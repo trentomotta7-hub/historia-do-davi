@@ -4,6 +4,12 @@ Repositório público do projeto: **roteiros, bíblia visual, pipeline de produ�
 
 > Comece por **[INTELIGENCIA.md](INTELIGENCIA.md)** e depois por **[CONTINUA_AQUI.md](CONTINUA_AQUI.md)**. Estão escritos para o agente, não para o humano curioso.
 
+```bash
+git clone https://github.com/trentomotta7-hub/historia-do-davi
+```
+
+O clone traz tudo o que é preciso para retomar a produção em outra sessão, inclusive a mídia já gerada. A pipeline foi executada a partir de um clone limpo e reproduz os tempos, blocos e legendas do EP04 sem ajuste nenhum.
+
 ## Estado da série
 
 | Ep | Título | Fase da história | Estado | Arquivo |
